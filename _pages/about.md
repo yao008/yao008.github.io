@@ -45,6 +45,14 @@ News
 
 ---
 
+Highlighted Ongoing Work
+======
+1. **Hongyang Du**, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, and Dong In Kim. ["Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization."](https://arxiv.org/abs/2308.05384), submitted to **IEEE Communications Surveys & Tutorials**, 2023. <font color=green>This paper serves as a comprehensive tutorial on applying GDMs in network optimization tasks, with a series of case studies, showing the integration of GDMs with Deep Reinforcement Learning (DRL), incentive mechanism design, Semantic Communications (SemCom), Internet of Vehicles (IoV) networks, etc.</font> [Code](https://github.com/HongyangDu/GDMOPT).
+1. **Hongyang Du**, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Huawei Huang, and Shiwen Mao. ["Generative AI-aided optimization for AI-generated content (AIGC) services in edge networks."](https://arxiv.org/abs/2303.13052), submitted to **IEEE Transactions on Mobile Computing**, 2023. <font color=green>We propose a diffusion model-based AI-generated optimal decision (AGOD) algorithm, which can generate the optimal ASP selection decisions.</font> [Code](https://github.com/Lizonghang/AGOD). 
+
+
+---
+
 Selected 10 First-author Papers
 ======
 **For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
