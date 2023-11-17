@@ -103,14 +103,16 @@ Awards
 Academic Services
 ======
 1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials [2022-now]
+1. TPC Member, IEEE ICC 2024, CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)
 1. TPC Member, IEEE WCNC 2024, Track 3 – Machine Learning and Optimization for Wireless Systems
 1. TPC Member, IEEE WCNC 2024, Track 4 – Emerging Technologies, Standards, and Applications
+1. TPC Member, IEEE WCNC 2024, Workshop on The Impact of Large Language Models on 6G Networks
 1. TPC Member, VTC2023-Fall: Hong Kong, Machine Learning and AI for Communications
 1. TPC Member, VTC2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
 1. TPC Member, VTC2023-Fall: Hong Kong, Recent Results and Workshops
 1. TPC Member, IEEE WCNC 2023, Track 3 – Machine Learning and Optimization for Wireless Systems
 1. TPC Member, IEEE WCNC 2022, Track 2 – Networking and MAC
-1. Reviewer: IEEE COMST, JSAC, TMC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, and more.
+1. Reviewer: IEEE COMST, JSAC, TMC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, Network, WCL, CL, and more.
 
 ---
 
