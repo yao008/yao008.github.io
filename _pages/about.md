@@ -89,10 +89,10 @@ Selected 10 Collaborative Papers
 Awards
 ======
 1. **IEEE Signal Processing Society Scholarship**, from **IEEE Signal Processing Society**, 2023
-1. **Honorary Mention** in the 2023 ComSoc Student Competition "Communications Technology Changing the World.", from **IEEE Communications Society**, 2023 <br/><img src='/images/stucom.png'>
-1. **IEEE Daniel E. Nobel Fellowship Award**, from **IEEE Vehicular Technology Society**, 2022 (Only one person is selected globally each year.) <br/><img src='/images/VTS.jpg'>
-1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 <br/><img src='/images/ReTCOM.jpg'>
-1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 <br/><img src='/images/communlett.jpg'>
+1. **Honorary Mention** in the 2023 ComSoc Student Competition "Communications Technology Changing the World.", from **IEEE Communications Society**, 2023 <br/><img src='/images/stucom.png' width= 300>
+1. **IEEE Daniel E. Nobel Fellowship Award**, from **IEEE Vehicular Technology Society**, 2022 (Only one person is selected globally each year.) <br/><img src='/images/VTS.jpg' width= 300>
+1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 <br/><img src='/images/ReTCOM.jpg' width= 300>
+1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 <br/><img src='/images/communlett.jpg' width= 300>
 1. **Chinese Government Award for Outstanding Students Abroad** (Prestigious Award presented to 650 Ph.D. students worldwide each year), 2022
 1. **Research Scholarship**, NTU, 2021-2025
 1. **National Scholarship**, Ministry of Education of China, 2020
