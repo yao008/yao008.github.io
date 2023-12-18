@@ -20,7 +20,7 @@ My research is primarily centered around the utilization of **Generative AI in I
 
 News
 ======
-1. [Dec/2023] My two projects got the FIRST PRIZE and SECOND PRIZE in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition, respectively.
+1. [Dec/2023] My two projects got the <font color=green>FIRST PRIZE</font> and <font color=green>SECOND PRIZE</font> in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition, respectively. We will give presentations in IEEE ICC 2024. See you in Denver, CO, USA! 
 1. [Nov/2023] Our project, "*Artificial Intelligence-driven Eyewear: Keys to Metaverse,*" received an <font color=green>Honorary Mention</font> in the 2023 ComSoc Student Competition "Communications Technology Changing the World." As the team leader, I am happy to witness our project to be recognized as one of the top 16 projects globally.
 1. [Nov/2023] I am honored to receive the <font color=green>IEEE Signal Processing Society Scholarship</font>, as one of the [inaugural class of recipients](https://signalprocessingsociety.org/newsletter/2023/11/congratulations-inaugural-sps-scholarship-recipients?utm_campaign=SPS%20eNewsletter%202023&utm_medium=email&_hsmi=281986648&_hsenc=p2ANqtz-_KhPmHBT92PkzyP34_yIpWezh_Zfif4hqn5260iMT5l5utOV_ITU55AYOeptSJg-61auuMdrW0CuOGqXeTUJ3cS0DZjA&utm_content=281986648&utm_source=hs_email)!
 1. [Oct/2023] We released the code for our *generative-AI for decition* paper ["Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks"](https://arxiv.org/abs/2308.05384). The code is available [here](https://github.com/Lizonghang/AGOD).
