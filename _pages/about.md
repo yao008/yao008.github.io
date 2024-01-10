@@ -83,14 +83,14 @@ Selected 10 Collaborative Papers
 1. Jiacheng Wang, **Hongyang Du**, Zengshan Tian, Dusit Niyato, Jiawen Kang, and Xuemin Shen. ["Semantic-aware sensing information transmission for metaverse: A contest theoretic approach."](https://ieeexplore.ieee.org/document/10007890) **IEEE Transactions on Wireless Communications** (IF: 10.4, Q1), 2023. <font color=green>A semantic transmission framework for transmitting sensing information from the physical world to Metaverse.</font>
 1. Ismail Lotfi, **Hongyang Du**, Dusit Niyato, Sumei Sun, and Dong In Kim. ["On the Robustness of Channel Allocation in Joint Radar and Communication Systems: An Auction Approach."](https://ieeexplore.ieee.org/document/10128730) **IEEE Transactions on Mobile Computing** (IF: 7.9, Q1), 2023.  <font color=green>A covert JRC system that minimizes the detection probability by wardens.</font>
 1. Yijing Lin, **Hongyang Du**, Dusit Niyato, Jiangtian Nie, Jiayi Zhang, Yanyu Cheng, and Zhaohui Yang. ["Blockchain-aided secure semantic communication for ai-generated content in metaverse."](https://ieeexplore.ieee.org/abstract/document/10079087) IEEE Open Journal of the Computer Society 4 (2023): 72-83.
+1. Zhe Wang, Jiayi Zhang, **Hongyang Du**, Dusit Niyato, Shuguang Cui, Bo Ai, Mérouane Debbah, Khaled B. Letaief, and H. Vincent Poor. [``A tutorial on extremely large-scale MIMO for 6G: Fundamentals, signal processing, and applications."](https://ieeexplore.ieee.org/abstract/document/10379539) **IEEE Communications Surveys & Tutorials** (IF: 35.6, Q1), 2024 <font color=green>A comprehensive survey of research on XL-MIMO wireless systems.</font>
 1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, Jiawen Kang, Dusit Niyato, Qian Wang, Jingqing Ruan, and Shaohua Wan. ["DRL-based Adaptive Sharding for Blockchain-based Federated Learning."](https://ieeexplore.ieee.org/abstract/document/10159403) **IEEE Transactions on Communications** (2023).
-1. Zhe Wang, Jiayi Zhang, **Hongyang Du**, E. I. Wei, Bo Ai, Dusit Niyato, and Mérouane Debbah. ["Extremely large-scale MIMO: Fundamentals, challenges, solutions, and future directions."](https://ieeexplore.ieee.org/abstract/document/10098681) **IEEE Wireless Communications** (2023).
 
 ---
 
 Awards
 ======
-1. Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship (Ten cash awards of S$10,000 for doctoral students at Singapore universities)
+1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** (Ten cash awards of S$10,000 for doctoral students at Singapore universities)
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition (Team Leader)
 1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition
 1. **IEEE Signal Processing Society Scholarship**, from **IEEE Signal Processing Society**, 2023
