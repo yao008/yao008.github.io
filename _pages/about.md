@@ -95,9 +95,9 @@ Selected Collaborative Papers
 
 Awards
 ======
-1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** (Ten cash awards of S$10,000 for doctoral students at Singapore universities)
-1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition (Team Leader)
-1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition
+1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** <font color=red>*- Only ten students are selected in Singapore each year*<font>
+1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition <font color=red>*- Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''*<font>
+1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition <font color=red>*- IEEE society-level award from IEEE Signal Processing Society*<font>
 1. **IEEE Signal Processing Society Scholarship**, from **IEEE Signal Processing Society**, 2023
 1. **Honorary Mention** in the 2023 ComSoc Student Competition "Communications Technology Changing the World.", from **IEEE Communications Society**, 2023 <br/><img src='/images/stucom.png' width= "500">
 1. **IEEE Daniel E. Nobel Fellowship Award**, from **IEEE Vehicular Technology Society**, 2022 (Only one person is selected globally each year.) <br/><img src='/images/VTS.jpg' width= "500">
