@@ -95,18 +95,18 @@ Selected Collaborative Papers
 
 Awards
 ======
-1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** *<font color=red>- Only ten students are selected in Singapore each year<font>*
-1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition *<font color=red>- Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<font>*
+1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** *<font color=gold>- Only ten students are selected in Singapore each year<font>*
+1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition *<font color=gold>- Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<font>*
 1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
-1. **IEEE Signal Processing Society Scholarship**, 2023 *<font color=red>- IEEE society-level award from IEEE Signal Processing Society<font>*
-1. **Honorary Mention** in the 2023 ComSoc Student Competition "Communications Technology Changing the World.", 2023 <br/><img src='/images/stucom.png' width= "500"> <font color=red>*- IEEE society-level award from IEEE Communications Society*<font>
-1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 <br/><img src='/images/VTS.jpg' width= "500"> *<font color=red>- IEEE society-level award from IEEE Vehicular Technology Society, - Only one person is selected globally each year<font>*
+1. **IEEE Signal Processing Society Scholarship**, 2023 *<font color=gold>- IEEE society-level award from IEEE Signal Processing Society<font>*
+1. **Honorary Mention** in the 2023 ComSoc Student Competition "Communications Technology Changing the World.", 2023 <br/><img src='/images/stucom.png' width= "500"> <font color=gold>*- IEEE society-level award from IEEE Communications Society*<font>
+1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 <br/><img src='/images/VTS.jpg' width= "500"> *<font color=gold>- IEEE society-level award from IEEE Vehicular Technology Society, - Only one person is selected globally each year<font>*
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 <br/><img src='/images/ReTCOM.jpg' width= "500">
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 <br/><img src='/images/communlett.jpg' width= "500">
-1. **Chinese Government Award for Outstanding Students Abroad** (Prestigious Award presented to 650 Ph.D. students worldwide each year), 2022 *<font color=red>- National-level award from China<font>*
+1. **Chinese Government Award for Outstanding Students Abroad** (Prestigious Award presented to 650 Ph.D. students worldwide each year), 2022 *<font color=gold>- National-level award from China<font>*
 1. **Research Scholarship**, NTU, 2021-2025
-1. **National Scholarship**, Ministry of Education of China, 2020 <font color=red>*- National-level award from China*<font>
-1. **National Scholarship**, Ministry of Education of China, 2018 <font color=red>*- National-level award from China*<font>
+1. **National Scholarship**, Ministry of Education of China, 2020 *<font color=gold>- National-level award from China<font>*
+1. **National Scholarship**, Ministry of Education of China, 2018 *<font color=gold>- National-level award from China<font>*
 
 ---
 
