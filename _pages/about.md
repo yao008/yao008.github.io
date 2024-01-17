@@ -52,6 +52,8 @@ News
 Highlighted Ongoing Work
 ======
 1. **Hongyang Du**, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, and Dong In Kim. ["Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization."](https://arxiv.org/abs/2308.05384), submitted to **IEEE Communications Surveys & Tutorials**, Major Revision, 2023. <font color=green>This paper serves as a comprehensive tutorial on applying GDMs in network optimization tasks, with a series of case studies, showing the integration of GDMs with Deep Reinforcement Learning (DRL), incentive mechanism design, Semantic Communications (SemCom), Internet of Vehicles (IoV) networks, etc.</font> [Code](https://github.com/HongyangDu/GDMOPT).
+1. **Hongyang Du**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Ping Zhang, Shuguang Cui, Xuemin Shen, Shiwen Mao, Zhu Han, Abbas Jamalipour, H Vincent Poor, Dong In Kim. [``The Age of Generative AI and AI-Generated Everything.''](https://arxiv.org/abs/2311.00947), submitted to **IEEE Network** (IF: 9.3), Major Revision, 2023.
+<br/> *<font color="#CC5500">- Invited Paper<font>*
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ["User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content."](https://arxiv.org/abs/2311.11094), submitted, 2023. <font color=green>With a distributed generative diffusion model-based AIGC framework, we propose an Interactive AI (IAI) approach, i.e., Reinforcement Learning With Large Language Models Interaction (RLLI), which utilizes Large Language Model (LLM)-empowered generative agents to replicate users interaction, providing real-time and subjective QoE feedback that reflects a spectrum of user personalities.
 
 ---
@@ -67,13 +69,21 @@ Selected First-author Papers
 1. **Hongyang Du**, Jiayi Zhang, Ke Guan, Dusit Niyato, Huiying Jiao, Zhiqin Wang, and Thomas Kürner, ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications,"](https://ieeexplore.ieee.org/document/9743437/) **IEEE Transactions on Communications** (IF: 8.3, Q2), vol. 70, pp. 3575-3593, May, 2022 <font color=green>We first prove that the small-scale amplitude fading of THz signals can be accurately modeled by the fluctuating two-ray distribution based on two THz signal measurement experiments conducted in a variety of different scenarios.</font>
 1. **Hongyang Du**, Jiayi Zhang, Julian Cheng, and Bo Ai, ["Millimeter wave communications with reconfigurable intelligent surfaces: Performance analysis and optimization,"](https://ieeexplore.ieee.org/document/9324795/) **IEEE Transactions on Communications** (IF: 8.3, Q2), vol. 69, no. 4, pp. 2752–2768, Apr. 2021. <font color=green>We made a comprehensive comparison between the RIS-aided and AF relay systems over realistic mmWave channels.</font>
 1. **Hongyang Du**, Jiayi Zhang, Kostas P. Peppas, Hui Zhao, Bo Ai, and Xiaodan Zhang. ["On the Distribution of the Ratio of Products of Fisher-Snedecor F Random Variables and Its Applications."](https://ieeexplore.ieee.org/document/8939132) **IEEE Transactions on Vehicular Technology** (IF: 6.8, Q2), 69, no. 2 (2019): 1855-1866. <font color=green>We derive exact closed-form expressions for the main statistical characterizations of the ratio of products of F-distributed random variables.</font>
-1. **Hongyang Du**, Jiayi Zhang, Julian Cheng, and Bo Ai, ``Sum of Fisher-Snedecor *F* Random Variables and Its Applications,'' **IEEE Open Journal of the Communications Society** (IF: 7.9), vol. 1, pp. 342--356, Mar. 2020.
-1. **Hongyang Du**, Jiawen Kang, Dusit Niyato, Jiayi Zhang, and Dong In Kim. ``Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges." **IEEE Vehicular Technology Magazine** (IF: 8.1), vol. 17, pp. 54-64, May 2022.
+1. **Hongyang Du**, Jiayi Zhang, Julian Cheng, and Bo Ai, [``Sum of Fisher-Snedecor *F* Random Variables and Its Applications,''](https://ieeexplore.ieee.org/document/9044870) **IEEE Open Journal of the Communications Society** (IF: 7.9), vol. 1, pp. 342--356, Mar. 2020.
+1. **Hongyang Du**, Jiawen Kang, Dusit Niyato, Jiayi Zhang, and Dong In Kim. [``Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges."](https://ieeexplore.ieee.org/document/9768334) **IEEE Vehicular Technology Magazine** (IF: 8.1), vol. 17, pp. 54-64, May 2022.
 1. **Hongyang Du**, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. ["Enabling AI-generated content (AIGC) services in wireless edge networks."](https://arxiv.org/abs/2301.03220) **IEEE Wireless Communications** (IF: 12.9, Q1), 2023. <font color=green>We present the AIGC-as-a-service (AaaS) concept and discuss the challenges in deploying AaaS at the edge networks.</font>
-1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ``Rethinking Wireless Communication Security in Semantic Internet of Things,'', **IEEE Wireless Communications**, (IF: 12.9), vol. 30, pp. 36-43, Jun. 2023.
+1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. [``Rethinking Wireless Communication Security in Semantic Internet of Things,''](https://ieeexplore.ieee.org/document/10183798), **IEEE Wireless Communications**, (IF: 12.9), vol. 30, pp. 36-43, Jun. 2023.
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, and H. Vincent Poor. ["Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks."](https://arxiv.org/abs/2304.03446), **IEEE Network** (IF: 9.3, Q1), 2023. <font color=green>We proposes a novel collaborative distributed diffusion-based framework for AI-generated content (AIGC) to address energy and privacy challenges.</font> [Code](https://github.com/HongyangDu/DistributedDiffusion).
-1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Sherman Shen, and Dong In Kim. ``Exploring attention-aware network resource allocation for customized metaverse services'', **IEEE Network** (IF: 9.3), Early Access, 2022.
-1. **Hongyang Du**, Bohao Ma, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Zhaohui Yang. ``Rethinking quality of experience for metaverse services: A consumer-based economics perspective'' **IEEE Network** (IF: 9.3), Early Access, 2022.
+1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Sherman Shen, and Dong In Kim. [``Exploring Attention-aware Network Resource Allocation for Customized Metaverse Services''](https://ieeexplore.ieee.org/document/9999298), **IEEE Network** (IF: 9.3), Early Access, 2022.
+1. **Hongyang Du**, Bohao Ma, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Zhaohui Yang. [``Rethinking quality of experience for metaverse services: A consumer-based economics perspective''](https://arxiv.org/abs/2208.01076) **IEEE Network** (IF: 9.3), Early Access, 2022.
+1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, [``Reinforcement Learning With Large Language Models (LLMs) Interaction For Network Services''](https://www.techrxiv.org/users/689371/articles/698372-reinforcement-learning-with-large-language-models-llms-interaction-for-network-services) in Proceedings of International Conference on Computing, Networking and Communications (ICNC), Big Island, Hawaii, USA, 19-22 February 2024.
+<br/> *<font color=#CC5500>- Invited paper<font>*
+1. **Hongyang Du**,  Guangyuan Liu, Dusit Niyato, Jiayi Zhang, Jiawen Kang, Zehui Xiong, Bo Ai, and Dong In Kim, [``Generative AI-aided Joint Training-free Secure Semantic Communications via Multi-modal Prompts''](https://www.researchgate.net/publication/373715329_Generative_AI-aided_Joint_Training-free_Secure_Semantic_Communications_via_Multi-modal_Prompts) in Proceedings of IEEE International Conference on Acoustics, Speech, \& Signal Processing (ICASSP), Seoul, South Korea, 14-19 April 2024.
+1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, and Boon Hee Soong. [``Performance Analysis of Free-Space Information Sharing in Full-Duplex Semantic Communications.''](https://arxiv.org/abs/2211.14771) in Proceedings of IEEE GLOBECOM, Kuala Lumpur, Malaysia, 4-8 December 2023.
+1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin Sherman Shen. [``Lightweight Wireless Sensing Through RIS and Inverse Semantic Communications.''](https://ieeexplore.ieee.org/document/10119005) In Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), Glasgow, UK, 26–29 March 2023.
+1. **Hongyang Du**, Dusit Niyato, Yuan-ai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim. [``Covert Communication for Jammer-aided Multi-Antenna UAV Networks.''](https://ieeexplore.ieee.org/document/9838318) in Proceedings of IEEE ICC, Seoul, South Korea, 16-20 May 2022.
+1. **Hongyang Du**, Dusit Niyato, Jiawen Kang, Dong In Kim, and Chunyan Miao. [``Optimal Targeted Advertising Strategy For Secure Wireless Edge Metaverse.''](https://ieeexplore.ieee.org/document/10001331) in Proceedings of IEEE GLOBECOM, Rio de Janeiro, Brazil, from 4-8 December 2022. 
+
 
 
 Selected Collaborative Papers
@@ -81,15 +91,14 @@ Selected Collaborative Papers
 **For all publications, please refer to [this](https://hongyangdu.github.io/publications/) or my [google scholar](https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao).**
 1. Jiayi Zhang, **Hongyang Du**, Peng Zhang, Julian Cheng, and Liang Yang, ["Performance Analysis of 5G Mobile Relay Systems for High-Speed Trains,"](https://ieeexplore.ieee.org/document/9127464) **IEEE Journal on Selected Areas in Communications** (IF: 16.4, Q1), vol. 638, no. 12, pp. 2760-2772, Dec. 2020. <font color=green>We proposed a framework to analyze the mobile relay system over mixed κ-μ and FTR fading channels for High-Speed Trains communications.</font>
 1. Jiawen Kang, **Hongyang Du**, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, and Yuan Li. ["Personalized Saliency-Based Task-Oriented Semantic Communications: Architecture Design and Performance Analysis."](https://arxiv.org/pdf/2209.12274) **IEEE Journal on Selected Areas in Communications** (IF: 16.4, Q1), 41, no. 1: 186-201, 2022. <font color=green>We have first presented an energy-efficient task-oriented semantic communication framework with an efficient image retrieval manner based on a triple-based scene graph.</font>  
-<br/> *<font color="orange">- First Price of Outstanding Papers of Computer Academy of Guangdong (China), -IEEE JSAC Popular Documents December 2023</font>*
+<br/> *<font color="#CC5500">- First Price of Outstanding Papers of Computer Academy of Guangdong (China), -IEEE JSAC Popular Documents December 2023</font>*
 1. Jiacheng Wang, **Hongyang Du**, Dusit Niyato, Mu Zhou, Jiawen Kang, Zehui Xiong, and Abbas Jamalipour. ["Through the Wall Detection and Localization of Autonomous Mobile Device in Indoor Scenario."](https://ieeexplore.ieee.org/abstract/document/10274422/) **IEEE Journal on Selected Areas in Communications** (IF: 16.4, Q1), to appear, 2023. <font color=green>We propose a channel state information (CSI) based system for through-the-wall (TTW) passive AMD detection and localization.</font>
 1. Jiayi Zhang, **Hongyang Du**, Qiang Sun, Bo Ai, and Derrick Wing Kwan Ng. ["Physical layer security enhancement with reconfigurable intelligent surface-aided networks."](https://ieeexplore.ieee.org/abstract/document/9439833?casa_token=Ft37Yc-M8csAAAAA:pO6gg_LAGlSeM-KFlgj7qsHqQGetDcqFS53gKagSXPR6-gl6PwB1Qwkj62R4JGFcvoLDLAbGOg) **IEEE Transactions on Information Forensics and Security** (IF: 6.8, Q1), 16:3480-3495, 2021. <font color=green>We study the physical layer security of the downlink RIS-aided transmission framework for randomly located users in the presence of a multi-antenna eavesdropper.</font>
 1. Wanting Yang, **Hongyang Du**, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ["Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"](https://ieeexplore.ieee.org/document/9955312), **IEEE Communications Surveys & Tutorials** (IF: 35.6, Q1), Nov. 2022. <font color=green>A comprehensive survey of semantic communications for 6G network.</font>
 1. Minrui Xu, **Hongyang Du** *(Corresponding Author)*, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han et al. ``Unleashing the power of edge-cloud generative ai in mobile networks: A survey of aigc services.'' **IEEE Communications Surveys & Tutorials** *(IF: 35.6)*, vol. 25, pp. 213-250, 2023.
+1. Zhe Wang, Jiayi Zhang, **Hongyang Du**, Dusit Niyato, Shuguang Cui, Bo Ai, Mérouane Debbah, Khaled B. Letaief, and H. Vincent Poor. [``A tutorial on extremely large-scale MIMO for 6G: Fundamentals, signal processing, and applications."](https://ieeexplore.ieee.org/abstract/document/10379539) **IEEE Communications Surveys & Tutorials** (IF: 35.6, Q1), 2024 <font color=green>A comprehensive survey of research on XL-MIMO wireless systems.</font>
 1. Jiacheng Wang, **Hongyang Du**, Zengshan Tian, Dusit Niyato, Jiawen Kang, and Xuemin Shen. ["Semantic-aware sensing information transmission for metaverse: A contest theoretic approach."](https://ieeexplore.ieee.org/document/10007890) **IEEE Transactions on Wireless Communications** (IF: 10.4, Q1), 2023. <font color=green>A semantic transmission framework for transmitting sensing information from the physical world to Metaverse.</font>
 1. Ismail Lotfi, **Hongyang Du**, Dusit Niyato, Sumei Sun, and Dong In Kim. ["On the Robustness of Channel Allocation in Joint Radar and Communication Systems: An Auction Approach."](https://ieeexplore.ieee.org/document/10128730) **IEEE Transactions on Mobile Computing** (IF: 7.9, Q1), 2023.  <font color=green>A covert JRC system that minimizes the detection probability by wardens.</font>
-1. Yijing Lin, **Hongyang Du**, Dusit Niyato, Jiangtian Nie, Jiayi Zhang, Yanyu Cheng, and Zhaohui Yang. ["Blockchain-aided secure semantic communication for ai-generated content in metaverse."](https://ieeexplore.ieee.org/abstract/document/10079087) IEEE Open Journal of the Computer Society 4 (2023): 72-83.
-1. Zhe Wang, Jiayi Zhang, **Hongyang Du**, Dusit Niyato, Shuguang Cui, Bo Ai, Mérouane Debbah, Khaled B. Letaief, and H. Vincent Poor. [``A tutorial on extremely large-scale MIMO for 6G: Fundamentals, signal processing, and applications."](https://ieeexplore.ieee.org/abstract/document/10379539) **IEEE Communications Surveys & Tutorials** (IF: 35.6, Q1), 2024 <font color=green>A comprehensive survey of research on XL-MIMO wireless systems.</font>
 1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, Jiawen Kang, Dusit Niyato, Qian Wang, Jingqing Ruan, and Shaohua Wan. ["DRL-based Adaptive Sharding for Blockchain-based Federated Learning."](https://ieeexplore.ieee.org/abstract/document/10159403) **IEEE Transactions on Communications** (2023).
 
 ---
@@ -97,28 +106,28 @@ Selected Collaborative Papers
 Awards
 ======
 1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** 
-<br/> *<font color="orange">- Only ten students are selected in Singapore each year<font>*
+<br/> *<font color="#CC5500">- Only ten students are selected in Singapore each year<font>*
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
-<br/> *<font color="orange">- Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<font>*
+<br/> *<font color="#CC5500">- Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<font>*
 1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
 1. **IEEE Signal Processing Society Scholarship**, 2023 
-<br/> *<font color="orange">- IEEE society-level award from IEEE Signal Processing Society<font>*
+<br/> *<font color="#CC5500">- IEEE society-level award from IEEE Signal Processing Society<font>*
 1. **Honorary Mention** in the 2023 ComSoc Student Competition "Communications Technology Changing the World.", 2023 
-<br/> *<font color="orange">- IEEE society-level award from IEEE Communications Society<font>* 
+<br/> *<font color="#CC5500">- IEEE society-level award from IEEE Communications Society<font>* 
 <br/> <img src='/images/stucom.png' width= "500">
-1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 *<font color="orange">- IEEE society-level award from IEEE Vehicular Technology Society, - Only one person is selected globally each year<font>* 
+1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 *<font color="#CC5500">- IEEE society-level award from IEEE Vehicular Technology Society, - Only one person is selected globally each year<font>* 
 <br/><img src='/images/VTS.jpg' width= "500"> 
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 
 <br/><img src='/images/ReTCOM.jpg' width= "500">
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 
 <br/><img src='/images/communlett.jpg' width= "500">
 1. **Chinese Government Award for Outstanding Students Abroad**, 2022 
-<br/> *<font color="orange">- National-level award from China, - Prestigious Award presented to 650 Ph.D. students worldwide each year<font>*
+<br/> *<font color="#CC5500">- National-level award from China, - Prestigious Award presented to 650 Ph.D. students worldwide each year<font>*
 1. **Research Scholarship**, NTU, 2021-2025
 1. **National Scholarship**, Ministry of Education of China, 2020 
-<br/> *<font color="orange">- National-level award from China<font>*
+<br/> *<font color="#CC5500">- National-level award from China<font>*
 1. **National Scholarship**, Ministry of Education of China, 2018 
-<br/> *<font color="orange">- National-level award from China<font>*
+<br/> *<font color="#CC5500">- National-level award from China<font>*
 
 ---
 
