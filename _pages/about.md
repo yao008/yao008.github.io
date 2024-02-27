@@ -114,6 +114,7 @@ Awards
 ======
 1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** 
 <br/> <font color="#CC5500"><i>&bull; Only ten students are selected in Singapore each year<i><font>
+<br/><img src='/images/sdscaward.jpg' width= "500"> 
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
 <br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
 1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
