@@ -112,29 +112,29 @@ Selected Collaborative Papers
 
 Awards
 ======
-1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship** 
-<br/> <font color="#CC5500"><i>&bull; Only ten students are selected in Singapore each year<i><font>
-<br/><img src='/images/sdscaward.jpg' width= "500"> 
-1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
-<br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
-1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
-1. **IEEE Signal Processing Society Scholarship**, 2023 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Signal Processing Society<i><font>
-<br/><img src='/images/sps.png' width= "500"> 
-1. **Honorary Mention** in the 2023 ComSoc Student Competition "Communications Technology Changing the World.", 2023 
-<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society<i><font>
-<br/> <img src='/images/stucom.png' width= "500">
 1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 
 <br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Vehicular Technology Society<i><font>
 <br/> <font color="#CC5500"><i>&bull; Only one person is selected globally each year<i><font>
 <br/><img src='/images/VTS.jpg' width= "500"> 
+1. **IEEE Signal Processing Society Scholarship**, 2023 
+<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Signal Processing Society<i><font>
+<br/><img src='/images/sps.png' width= "500"> 
+1. **Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship**, 2023
+<br/> <font color="#CC5500"><i>&bull; Only ten students are selected in Singapore each year<i><font>
+<br/><img src='/images/sdscaward.jpg' width= "500"> 
+1. **Chinese Government Award for Outstanding Students Abroad**, 2022 
+<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
+<br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 650 Ph.D. students worldwide each year<i><font>
+1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
+<br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
+1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
+1. **Honorary Mention** in the 2023 ComSoc Student Competition ``Communications Technology Changing the World.'', 2023 
+<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society<i><font>
+<br/> <img src='/images/stucom.png' width= "500">
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 
 <br/><img src='/images/ReTCOM.jpg' width= "500">
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 
 <br/><img src='/images/communlett.jpg' width= "500">
-1. **Chinese Government Award for Outstanding Students Abroad**, 2022 
-<br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
-<br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 650 Ph.D. students worldwide each year<i><font>
 1. **Research Scholarship**, NTU, 2021-2025
 1. **National Scholarship**, Ministry of Education of China, 2020 
 <br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
