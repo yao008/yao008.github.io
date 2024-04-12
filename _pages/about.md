@@ -22,6 +22,8 @@ Individually, our strength may have its limits; collectively, our potential is b
 
 News
 ======
+1. [Apr/2024] We will organize a workshop ["Empowering Wireless Communications and Networking with Generative AI"](https://iccc2024.ieee-iccc.org/program/workshops-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!
+1. [Mar/2024] We will give a tutorial ["Generative Artificial Intelligence-empowered Networks: Optimization and Applications"](https://iccc2024.ieee-iccc.org/program/tutorials-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!
 1. [Dec/2023] I am honored to receive the  <font color=green>Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship</font>. This programme provides ten cash awards of S$10,000 for doctoral students at Singapore universities.
 1. [Dec/2023] My two projects got the <font color=green>FIRST PRIZE</font> and <font color=green>SECOND PRIZE</font> in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition, respectively. We will give presentations in IEEE ICC 2024. See you in Denver, CO, USA! 
 1. [Nov/2023] Our project, "*Artificial Intelligence-driven Eyewear: Keys to Metaverse,*" received an <font color=green>Honorary Mention</font> in the 2023 ComSoc Student Competition "Communications Technology Changing the World." As the team leader, I am happy to witness our project to be recognized as one of the top 16 projects globally.
