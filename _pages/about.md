@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am going to obtain my Ph.D. degree with the College of Computing and Data Science, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, in 2024, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme). My research is supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I completed my B.Sc. degree at Beijing Jiaotong University, Beijing, China, in 2021, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
+I am going to obtain my Ph.D. degree with the College of Computing and Data Science, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, in 2024, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme). My research is supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I completed my B.Sc. degree at Beijing Jiaotong University, Beijing, China, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2022, the impact factor of IEEE COMST reached 35.6, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts, including Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
