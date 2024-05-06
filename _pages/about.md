@@ -22,6 +22,9 @@ Individually, our strength may have its limits; collectively, our potential is b
 
 News
 ======
+1. [May/2024] One [first authored paper](https://arxiv.org/abs/2311.11094) submitted to IEEE TPAMI got major revision decision.
+1. [May/2024] One [first authored paper](https://arxiv.org/abs/2308.05384) was accepted by IEEE COMST.
+1. [May/2024] Oral defence of my PhD thesis!
 1. [Apr/2024] We will organize a workshop ["Empowering Wireless Communications and Networking with Generative AI"](https://iccc2024.ieee-iccc.org/program/workshops-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!
 1. [Mar/2024] We will give a tutorial ["Generative Artificial Intelligence-empowered Networks: Optimization and Applications"](https://iccc2024.ieee-iccc.org/program/tutorials-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!
 1. [Dec/2023] I am honored to receive the  <font color=green>Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship</font>. This programme provides ten cash awards of S$10,000 for doctoral students at Singapore universities.
