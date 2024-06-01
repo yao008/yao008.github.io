@@ -1,18 +1,13 @@
 ---
-layout: archive
-title: "Published Papers"
 permalink: /publications/
+title: "Publications"
+excerpt: ""
 author_profile: true
+# redirect_from: 
+#   # - /publications/
+#   - /publications.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Journal Papers
+1. Hongyang Du, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ``User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content.'', submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** *(IF: 23.6)*, Major Revision, 2024.
 
-{% include base_path %}
-
-Please click on the paper title to view the free download link and short summary.
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
