@@ -141,7 +141,7 @@ Awards
 1. **Chinese Government Award for Outstanding Students Abroad**, 2022 
 <br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
 <br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 650 Ph.D. students worldwide each year<i><font>
-1. **Best Paper Award** for *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"* in the IWCMC 2024 Conference Ayia Napa, Cyprus, May 27th – 31st 2024
+1. **Best Paper Award** in the IWCMC 2024 Conference Ayia Napa, Cyprus, May 27th – 31st 2024
 <br/><img src='/images/Award/iwcmcbp.png' width= "500"> 
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
 <br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
