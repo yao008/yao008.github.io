@@ -53,7 +53,7 @@ News
 <summary><strong>More News</strong></summary>
 
 
-<ol style="padding-left: 20px;" start="26">
+<ol style="padding-left: 20px;" start="27">
     <li>
         [Oct/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Kang%20et%20al_2022_Personalized%20Saliency%20in%20Task-Oriented%20Semantic%20Communications.pdf">"Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"</a> is accepted by IEEE JSAC (IF: 13.08, Q1)!
     </li>
