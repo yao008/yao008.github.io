@@ -50,14 +50,13 @@ News
 1. [Nov/2022] I am honored to receive the <font color=green>IEEE Daniel E. Nobel Fellowship Award</font> (One person each year)!
 
 <details>
-
 <summary>More News</summary>
-1. [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://hongyangdu.github.io/files/Kang et al_2022_Personalized Saliency in Task-Oriented Semantic Communications.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
-1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in <font color=green>Thailand</font>, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
-1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](http://hongyangdu.github.io/files/Du et al_2022_Performance and Optimization of Reconfigurable Intelligent Surface Aided THz.pdf) is accepted by IEEE TCOM! 
-1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
-1. [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!
 
+* [Oct/2022] Our paper titled ["Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"](https://hongyangdu.github.io/files/Kang%20et%20al_2022_Personalized%20Saliency%20in%20Task-Oriented%20Semantic%20Communications.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
+* [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in **Thailand**, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
+* [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](http://hongyangdu.github.io/files/Du%20et%20al_2022_Performance%20and%20Optimization%20of%20Reconfigurable%20Intelligent%20Surface%20Aided%20THz.pdf) is accepted by IEEE TCOM!
+* [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du%20et%20al_Performance%20Analysis%20and%20Optimization%20for%20Jammer-Aided%20Multi-Antenna%20UAV%20Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
+* [Jan/2022] I am honored to be recognized as the **Exemplary Reviewer of the IEEE TCOM**, 2021!
 </details>
 
 ---
