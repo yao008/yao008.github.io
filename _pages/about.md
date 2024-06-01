@@ -50,17 +50,17 @@ News
 1. [Nov/2022] I am honored to receive the <font color=green>IEEE Daniel E. Nobel Fellowship Award</font> (One person each year)!
 
 <details>
-<summary><strong>More News<strong></summary>
+<summary><strong>More News</strong></summary>
 
 1. [Oct/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Kang et al_2022_Personalized Saliency in Task-Oriented Semantic Communications.pdf">"Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"</a> is accepted by IEEE JSAC (IF: 13.08, Q1)!
 <br>
-1. [Jun/2022] I visited [Chiang Mai University](https://www.cmu.ac.th/en/) in <span style="color: green;">Thailand</span>, hosted by Prof. [Maggie](https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ). Very happy time!
+1. [Jun/2022] I visited <a href="https://www.cmu.ac.th/en/">Chiang Mai University</a> in <span style="color: green;">Thailand</span>, hosted by <a href="https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ">Prof. Maggie</a>. Very happy time!
 <br>
-1. [Mar/2022] Our paper titled ["Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"](http://hongyangdu.github.io/files/Du et al_2022_Performance and Optimization of Reconfigurable Intelligent Surface Aided THz.pdf) is accepted by IEEE TCOM! 
+1. [Mar/2022] Our paper titled <a href="http://hongyangdu.github.io/files/Du et al_2022_Performance and Optimization of Reconfigurable Intelligent Surface Aided THz.pdf">"Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"</a> is accepted by IEEE TCOM! 
 <br>
-1. [Feb/2022] Our paper titled ["Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"](https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf) is accepted by IEEE JSAC (IF: 13.08, Q1)!
+1. [Feb/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Du et al_Performance Analysis and Optimization for Jammer-Aided Multi-Antenna UAV Covert.pdf">"Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"</a> is accepted by IEEE JSAC (IF: 13.08, Q1)!
 <br>
-1. [Jan/2022] I am honored to be recognized as the <font color=green>Exemplary Reviewer of the IEEE TCOM</font>, 2021!
+1. [Jan/2022] I am honored to be recognized as the <span style="color: green;">Exemplary Reviewer of the IEEE TCOM</span>, 2021!
 
 </details>
 
