@@ -8,6 +8,12 @@ author_profile: true
 #   - /publications.html
 ---
 
+# Selected Submitted Papers
+1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ``User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content.'', submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** *(IF: 23.6)*, Major Revision, 2024.
+
+1. **Hongyang Du**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Ping Zhang, Shuguang Cui, Xuemin Shen, Shiwen Mao, Zhu Han, Abbas Jamalipour, H Vincent Poor, Dong In Kim. ``The Age of Generative AI and AI-Generated Everything.''  submitted to **IEEE Network** *(IF: 9.3)*, Major Revision, 2023.
+> Invited Paper, invited by Editor-in-Chief of IEEE Network *(Prof. Chonggang Wang)*
+
 # Journal
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ``AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,'' **IEEE Journal on Selected Areas in Communications** *(IF: 16.4)*, vol. 41, pp. 2981-2997, Sept. 2023.
 > Selected by IEEE JSAC Popular Documents - October 2023
@@ -173,6 +179,8 @@ author_profile: true
 1. **Hongyang Du**, Dusit Niyato, Jiawen Kang, Dong In Kim, and Chunyan Miao. ``Optimal Targeted Advertising Strategy For Secure Wireless Edge Metaverse.'' in Proceedings of IEEE GLOBECOM, Rio de Janeiro, Brazil, from 4-8 December 2022. 
 
 1. Wei Chong Ng, **Hongyang Du**, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, and Chunyan Miao, "Stochastic Resource Allocation for Semantic Communication-aided Virtual Transportation Networks in the Metaverse" in Proceedings of IEEE WCNC, Dubai, United Arab Emirates, 21-24 April 2024. 
+
+1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, Dusit Niyato, G. Gui, Shuguang Cui, and J. Ren, "Scalable Federated Unlearning via Isolated and Coded Sharding" in **Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)**, Jeju, Korea, 3-9 August 2024. 
 
 1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, Y. Xu, and Dusit Niyato, ``Scalable Blockchain Oracle for AIGC Services'' in Proceedings of IEEE ICC, Denver, CO, USA, 9-13 June 2024.
 
