@@ -8,7 +8,7 @@ author_profile: true
 #   - /publications.html
 ---
 
-# Journal Papers
+# Journal
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ``AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,'' **IEEE Journal on Selected Areas in Communications** *(IF: 16.4)*, vol. 41, pp. 2981-2997, Sept. 2023.
 > Selected by IEEE JSAC Popular Documents - October 2023
 
@@ -31,15 +31,15 @@ author_profile: true
 1. **Hongyang Du**, Jiayi Zhang, Kostas P. Peppas, Hui Zhao, Bo Ai and Xiaodan Zhang, ``On the Distribution of the Ratio of Products of Fisher-Snedecor $\mathcal{F}$ Random Variables and Its Applications,'' **IEEE Transactions on Vehicular Technology** *(IF: 6.8)*, vol. 69, no. 2, pp. 1855-1866, Feb. 2020.
 
 1. **Hongyang Du**, Jiayi Zhang, Julian Cheng, and Bo Ai, ``Sum of Fisher-Snedecor $\mathcal{F}$ Random Variables and Its Applications,'' **IEEE Open Journal of the Communications Society** *(IF: 7.9)*, vol. 1, pp. 342--356, Mar. 2020.
- 
+
 1. **Hongyang Du**, Jiawen Kang, Dusit Niyato, Jiayi Zhang, and Dong In Kim. ``Reconfigurable Intelligent Surface-Aided Joint Radar and Covert Communications: Fundamentals, Optimization, and Challenges." **IEEE Vehicular Technology Magazine** *(IF: 8.1)*, vol. 17, pp. 54-64, May 2022.
 
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Mohsen Guizani, and Dong In Kim. ``Rethinking Wireless Communication Security in Semantic Internet of Things,'', **IEEE Wireless Communications** *(IF: 12.9)*, vol. 30, pp. 36-43, Jun. 2023.
- 
+
 1. **Hongyang Du**, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim. ``Enabling AI-generated content (AIGC) services in wireless edge networks.'', **IEEE Wireless Communications** *(IF: 12.9)*, to appear, 2023.
- 
+
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Xuemin Sherman Shen, and Dong In Kim. ``Exploring attention-aware network resource allocation for customized metaverse services'', **IEEE Network** *(IF: 9.3)*, early access, 2022.
- 
+
 1. **Hongyang Du**, Bohao Ma, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Zhaohui Yang. ``Rethinking quality of experience for metaverse services: A consumer-based economics perspective'' **IEEE Network** *(IF: 9.3)*, early access, 2022.
 
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, Xuemin Sherman Shen, and H. Vincent Poor. ``Exploring collaborative distributed diffusion-based AI-generated content (AIGC) in wireless networks.'' **IEEE Network** *(IF: 9.3)*, early access, 2023.
@@ -47,7 +47,7 @@ author_profile: true
 1. Minrui Xu, **Hongyang Du** *(Corresponding Author)*, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shiwen Mao, Zhu Han, Abbas Jamalipour, Dong In Kim, Xuemin Shen, Victor C. M. Leung, H. Vincent Poor. ``Unleashing the power of edge-cloud generative AI in mobile networks: A survey of AIGC services.'' **IEEE Communications Surveys & Tutorials** *(IF: 35.6)*, vol. 25, pp. 213-250, 2023.
 
 1. Wanting Yang, **Hongyang Du**, Ziqin Liew, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, Xuefen Chi, Xuemin Sherman Shen, and Chunyan Miao. ``Semantic communications for 6G future internet: Fundamentals, applications, and challenges.'' **IEEE Communications Surveys & Tutorials** *(IF: 35.6)*, vol. 25, pp. 213-250, 2023.
- 
+
 1. Jiawen Kang, **Hongyang Du**, Zonghang Li, Zehui Xiong, Shiyao Ma, Dusit Niyato, and Yuan Li. ``Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis.'' **IEEE Journal on Selected Areas in Communications** *(IF: 16.4)*, vol. 41, pp. 186-201, Nov. 2022.
 > First Price of Outstanding Papers of Computer Academy of Guangdong (China)
 > IEEE JSAC Popular Documents - December 2023
@@ -79,7 +79,7 @@ author_profile: true
 1. Jiacheng Wang, **Hongyang Du**,  Dusit Niyato, Jiawen Kang, Shuiguang Cui, Xuemin (Sherman) Shen, and Ping Zhang, ``Generative AI for Integrated Sensing and Communication: Insights from the Physical Layer Perspective,'' **IEEE Wireless Communications** *(IF: 12.9)*, accepted, 2023.
 
 1. Yinqiu Liu, **Hongyang Du**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Chunyan Miao, and Abbas Jamalipour. ``Blockchain-Empowered Lifecycle Management for AI-Generated Content (AIGC) Products in Edge Networks.'' **IEEE Wireless Communications** *(IF: 12.9)*, early access, 2023.
- 
+
 1. Yinqiu Liu, **Hongyang Du**, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, and Abbas Jamalipour. ``Deep Generative Model and Its Applications in Efficient Wireless Network Management: A Tutorial and Case Study'' **IEEE Wireless Communications** *(IF: 12.9)*, accepted, 2023.
 
 1. Yinqiu Liu, **Hongyang Du**, Dusit Niyato, Jiawen Kang, Shuguang Cui, Xuemin ()Sherman) Shen, and Ping Zhang, ``Optimizing Mobile-Edge AI-Generated Everything (AIGX) Services by Prompt Engineering: Fundamental, Framework, and Case Study," **IEEE Network** *(IF: 9.3)*, accepted, 2022.
@@ -135,7 +135,7 @@ author_profile: true
 1. Weixiu Guo, Yang Lu, **Hongyang Du**, Bo Ai, Dusit Niyato, and Zhiguo Ding, ``Hybrid MRT and ZF Learning for Energy-Efficient Transmission in Multi-RIS-Assisted Networks,'' **IEEE Transactions on Vehicular Technology** *(IF: 6.8)*, accepted, 2024
 
 1. Ruichen Zhang, Ke Xiong, **Hongyang Du**, Dusit Niyato, Jiawen Kang, Xuemin Shen, and H. Vincent Poor. ``Generative AI-enabled Vehicular Networks: Fundamentals, Framework, and Case Study.'' **IEEE Network** *(IF: 9.3)*, accepted, 2024.
- 
+
 1. Nguyen Van Huynh, Jiacheng Wang, **Hongyang Du**, Dinh Thai Hoang, Dusit Niyato, Diep N. Nguyen, Dong In Kim, and Khaled B. Letaief. ``Generative AI for Physical Layer Communications: A Survey.'' **IEEE Transactions on Cognitive Communications and Networking** *(IF: 8.6)*, accepted, 2024.
 
 1. Yaoqi Yang, Bangning Zhang, Daoxing Guo, **Hongyang Du**, Zehui Xiong, Dusit Niyato, and Zhu Han, ``Generative AI for Secure and Privacy-Preserving Mobile Crowdsensing,'' **IEEE Wireless Communications** *(IF: 12.9)*, accepted, 2024 
@@ -158,3 +158,46 @@ author_profile: true
 
 1. Jiani Fan, Wenzhuo Yang, Ziyao Liu, Jiawen Kang, Dusit Niyato, Kwok-Yan Lam, and **Hongyang Du**. ``Understanding Security in Smart City Domains From the ANT-centric Perspective,'' **IEEE Internet of Things Journal** *(IF: 10.6)*, vol. 10, pp. 11199-11223, Jul. 2023.
 
+# Conference
+1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ``Reinforcement Learning With Large Language Models (LLMs) Interaction For Network Services'' in Proceedings of International Conference on Computing, Networking and Communications (ICNC), Big Island, Hawaii, USA, 19-22 February 2024. 
+> Invited paper
+
+1. **Hongyang Du**,  Guangyuan Liu, Dusit Niyato, Jiayi Zhang, Jiawen Kang, Zehui Xiong, Bo Ai, and Dong In Kim, ``Generative AI-aided Joint Training-free Secure Semantic Communications via Multi-modal Prompts'' in Proceedings of IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP), Seoul, South Korea, 14-19 April 2024.
+
+1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Dong In Kim, and Boon Hee Soong. ``Performance Analysis of Free-Space Information Sharing in Full-Duplex Semantic Communications.'' in Proceedings of IEEE GLOBECOM, Kuala Lumpur, Malaysia, 4-8 December 2023.
+
+1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Junshan Zhang, and Xuemin Sherman Shen. ``Lightweight Wireless Sensing Through RIS and Inverse Semantic Communications.'' In Proceedings of IEEE Wireless Communications and Networking Conference (WCNC), Glasgow, UK, 26–29 March 2023.
+
+1. **Hongyang Du**, Dusit Niyato, Yuan-ai Xie, Yanyu Cheng, Jiawen Kang, and Dong In Kim. ``Covert Communication for Jammer-aided Multi-Antenna UAV Networks.'' in Proceedings of IEEE ICC, Seoul, South Korea, 16-20 May 2022.
+
+1. **Hongyang Du**, Dusit Niyato, Jiawen Kang, Dong In Kim, and Chunyan Miao. ``Optimal Targeted Advertising Strategy For Secure Wireless Edge Metaverse.'' in Proceedings of IEEE GLOBECOM, Rio de Janeiro, Brazil, from 4-8 December 2022. 
+
+1. Wei Chong Ng, **Hongyang Du**, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, and Chunyan Miao, "Stochastic Resource Allocation for Semantic Communication-aided Virtual Transportation Networks in the Metaverse" in Proceedings of IEEE WCNC, Dubai, United Arab Emirates, 21-24 April 2024. 
+
+1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, Y. Xu, and Dusit Niyato, ``Scalable Blockchain Oracle for AIGC Services'' in Proceedings of IEEE ICC, Denver, CO, USA, 9-13 June 2024.
+
+1. Yijing Liu, Gang Feng, **Hongyang Du**, Z. Qin, Yao Sun, Jiawen Kang, and Dusit Niyato, ``Straggler-aware Federated Learning based on Adaptive Clustering to Support Edge Intelligence'' in Proceedings of IEEE ICC, Denver, CO, USA, 9-13 June 2024.
+
+1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, Dusit Niyato, Jiawen Kang, Xiaoyuan Liu, ``Incentive and Dynamic Client Selection for Federated Unlearning.'' in Proceedings of **The Web Conference (WWW)**, Singapore, from 13-17 May 2024. 
+
+1. Guangyuan Liu, **Hongyang Du**, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Boon Hee Soong, ``Vision-based Semantic Communications for Metaverse Services: A Contest Theoretic Approach,'' in Proceedings of IEEE GLOBECOM, Kuala Lumpur, Malaysia, 4-8 December 2023.
+
+1. Zi Qin Liew, **Hongyang Du**, Wei Yang Bryan Lim, Zehui Xiong, Dusit Niyato, and Han Yu. ``Economics of Semantic Communication in Metaverse: An Auction Approach.'' in Proceedings of IEEE Annual Consumer Communications & Networking Conference (CCNC), Las Vegas, NV, USA, 8-11 January 2023. 
+
+1. Peng Zhang, **Hongyang Du**, Yiyu Cao, and Jiayi Zhang, ``Wireless Powered UAV Relay Communications over the Fisher-Snedecor $\mathcal{F}$ Fading Channels,'' in Proceedings of  IEEE 90th Vehicular Technology Conference (VTC2019-Fall), pp. 1-5, 2019.
+
+1. Huahua Xiao, **Hongyang Du**, Jiayi Zhang, Ke Guan, and Bo Ai. ``Outage Probability of Reconfigurable Intelligent Surface Aided THz Communications.'' in Proceedings of IEEE/CIC International Conference on Communications in China (ICCC), pp. 415-420., 2021.
+
+1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, Dusit Niyato, and J. Wang, ``Verifiable and Efficient Semantic Blockchain,'' in Proceedings of IEEE GLOBECOM, Kuala Lumpur, Malaysia, 4-8 December 2023. 
+
+1. Yanyu Cheng, Dusit Niyato, **Hongyang Du**, Jiawen Kang, Chunyan Miao, and Dong In Kim, ``Interest-Based Semantic Information Transmission With RSMA in Smart Cities,'' in Proceedings of IEEE ICC, Rome, Italy, 28 May - 01 June 2023. 
+
+1. Yijing Lin, Zhipeng Gao, **Hongyang Du**, and Dusit Niyato. ``Blockchain-Aided AI-Generated Content Services: Stackelberg Game-Based Content Caching Approach.'' in Proceedings of International Conference on Web Services (ICWS), Chicago, IL, USA, 2-8 July 2023.
+
+1. Yining Wang, Y. Hu, **Hongyang Du**, T. Luo, and Dusit Niyato, ``Distributed Reinforcement Learning for Covert Semantic Communications over Wireless Networks,'' in Proceedings of IEEE International Conference on Acoustics, Speech, & Signal Processing (ICASSP), Rhodes Island, Greece, 4-10 June 2023.
+
+1. Jiakang Zheng, Jiayi Zhang, **Hongyang Du**, Dusit Niyato, and Bo Ai, ``Cell-free massive MIMO Enabled URLLC Communication for the Green Metaverse,'' in Proceedings of IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom), Kyoto, Japan, 26-28 June 2023.
+
+1. L. Zhou, S. Leng, Z. Li, **Hongyang Du**, and D. Niyato, ``Graph Learning Enhanced UAV Swarms Based Multiple Targets Tracking,'' in Proceedings of IEEE GLOBECOM, Kuala Lumpur, Malaysia, 4-8 December 2023.
+
+1. Jinbo Wen, Jiawen Kang, Zehui Xiong, Yang Zhang, **Hongyang Du**, Yutao Jiao, and Dusit Niyato, ``Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses,'' in Proceedings of IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom), Kyoto, Japan, 26-28 June 2023. 
