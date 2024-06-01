@@ -165,6 +165,9 @@ author_profile: true
 1. Jiani Fan, Wenzhuo Yang, Ziyao Liu, Jiawen Kang, Dusit Niyato, Kwok-Yan Lam, and **Hongyang Du**. ``Understanding Security in Smart City Domains From the ANT-centric Perspective,'' **IEEE Internet of Things Journal** *(IF: 10.6)*, vol. 10, pp. 11199-11223, Jul. 2023.
 
 # Conference
+1. **Hongyang Du**, Guangyuan Liu, Yijing Lin, Dusit Niyato, Jiawen Kanag, Zehui Xiong, and Dong In Kim, "Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach" in Proceedings of International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024. 
+> Best Paper Award
+
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ``Reinforcement Learning With Large Language Models (LLMs) Interaction For Network Services'' in Proceedings of International Conference on Computing, Networking and Communications (ICNC), Big Island, Hawaii, USA, 19-22 February 2024. 
 > Invited paper
 

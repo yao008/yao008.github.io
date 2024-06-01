@@ -22,6 +22,7 @@ Individually, our strength may have its limits; collectively, our potential is b
 
 News
 ======
+1. [Jun/2024] Our paper, *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"*, was selected for the **Best Paper Award** in International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2311.11094) submitted to IEEE TPAMI got major revision decision.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2308.05384) was accepted by IEEE COMST.
 1. [May/2024] Oral defence of my PhD thesis!
@@ -140,6 +141,8 @@ Awards
 1. **Chinese Government Award for Outstanding Students Abroad**, 2022 
 <br/> <font color="#CC5500"><i>&bull; <b>National-level</b> award from China<i><font>
 <br/> <font color="#CC5500"><i>&bull; Prestigious Award presented to 650 Ph.D. students worldwide each year<i><font>
+1. **Best Paper Award** for *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"* in the IWCMC 2024 Conference Ayia Napa, Cyprus, May 27th – 31st 2024
+<br/><img src='/images/Award/iwcmcbp.png' width= "500"> 
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
 <br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
 1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
