@@ -11,7 +11,7 @@ redirect_from:
 
 你好，我是杜泓阳 (Hongyang Du)。
 
-我于2024年获得南洋理工大学博士学位，2021在北京交通大学获得了工学学士学位。
+我于2024年获得南洋理工大学博士学位，于2021年在北京交通大学获得了工学学士学位。
 
 目前，我担任IEEE Communications Surveys & Tutorials的主编助理。2022年，IEEE COMST的影响因子达到了35.6，这是所有IEEE期刊和杂志中最高的。为了进一步推广IEEE COMST，我正在协助运营一些社交账号，包括LinkedIn（@IEEE Communications Surveys And Tutorials）、Twitter（@IEEECOMST）和微信公众账号（@IEEECOMST）。感谢您的关注！
 
