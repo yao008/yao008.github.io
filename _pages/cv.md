@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "中文简介"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Beijing Jiaotong University (BJTU), September 2017 – June 2021
-* Ph.D in Nanyang Technological University (NTU), August 2022
+你好，我是杜泓阳 (Hongyang Du)。
 
-Experience
-======
-* June 2022 – Present:
-  * Editor-in-Chief Assistant of IEEE Communications Surveys & Tutorials (Impact Factor: 33.84)
-  * Editor-in-Chief: Prof. [Dusit Niyato](Web: https://personal.ntu.edu.sg/dniyato/)
+我于2024年获得南洋理工大学博士学位，2021在北京交通大学获得了工学学士学位。
 
-* September 2018 – June 2021
-  * Research Assistant in Beijing Jiaotong University
-  * Mentor: Prof. [Jiayi Zhang](Web: https://sites.google.com/site/jiayizhang8650)
+目前，我担任IEEE Communications Surveys & Tutorials的主编助理。2022年，IEEE COMST的影响因子达到了35.6，这是所有IEEE期刊和杂志中最高的。为了进一步推广IEEE COMST，我正在协助运营一些社交账号，包括LinkedIn（@IEEE Communications Surveys And Tutorials）、Twitter（@IEEECOMST）和微信公众账号（@IEEECOMST）。感谢您的关注！
 
-
-Published Papers
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Submitted Papers
-======
-  <ul>{% for post in site.submitted %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Awards
-======
-  <ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Skills and Hobbies:
-======
-* Skills:
-	* Matlab: Developed several Monte-Carlo simulation algorithms to demonstrate the accuracy of the derived expressions while doing wireless communications research.
-	* Mathematica: Presented a tractable Mathematica program to calculate the extended generalized bivariate Meijer G-function.
-	* LabVIEW: Developed an algorithm of cyclic coding and decoding.
-	* C: Developed a system to manage student information including personal information and course grades.
-	* Python: Developed an algorithm to compress text using Huffman coding and developed a GUI. Used to calculate the multivariable Fox’s H-function.
-	* CARLA Simulation: Created virtual experiment environment to support development, training, and validation of autonomous driving systems.
-* Hobbies:
-	* Table Tennis, Basketball, Badminton, Ukulele and Drawing.
-	* Participated in 46 volunteer activities (234 hours).
-
-
+我的研究主要围绕生成式人工智能在智能网络中的应用展开。我们的主要目标是探索“智能网络如何支持各种人工智能生成内容（AIGC）服务”和“生成式人工智能作为前沿机器学习工具，如何用于提升智能网络的性能、安全性和可靠性”。这包括探索各种网络方法的集成，如语义通信、资源分配、以及综合感知与通信。请参考这个[网址](https://hongyangdu.github.io/DLab/), 以获取我们团队最新的生成式人工智能相关论文的更新！
