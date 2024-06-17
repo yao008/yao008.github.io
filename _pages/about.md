@@ -165,6 +165,7 @@ Awards
 <br/><img src='/images/Award/iwcmcbp.png' width= "500"> 
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
 <br/> <font color="#CC5500"><i>&bull; Project leader of ``Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear''<i><font>
+<br/><img src='/images/Award/student.jpg' width= "500"> 
 1. **Second Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
 1. **Honorary Mention** in the 2023 ComSoc Student Competition ``Communications Technology Changing the World.'', 2023 
 <br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society<i><font>
