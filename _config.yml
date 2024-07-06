@@ -183,6 +183,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  nice:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -240,6 +243,17 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _nice
+  - scope:
+      path: ""
+      type: nice
     values:
       layout: single
       author_profile: true
