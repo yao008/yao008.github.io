@@ -4,15 +4,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards"
-    url: /portfolio/
+  - title: "NICE"
+    url: /nice/
 
   - title: "Talk Slides"
     url: /talks/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "中文信息"
-    url: /cv/
-   
