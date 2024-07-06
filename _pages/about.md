@@ -51,24 +51,28 @@ News
 
 <details>
 <summary><strong>More News</strong></summary>
-
-
-<ol style="padding-left: 20px;" start="27">
-    <li>
-        [Oct/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Kang%20et%20al_2022_Personalized%20Saliency%20in%20Task-Oriented%20Semantic%20Communications.pdf">"Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"</a> is accepted by IEEE JSAC (IF: 13.08, Q1)!
-    </li>
-    <li>
-        [Jun/2022] I visited <a href="https://www.cmu.ac.th/en/">Chiang Mai University</a> in <span style="color: green;">Thailand</span>, hosted by <a href="https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ">Prof. Maggie</a>. Very happy time!
-    </li>
-    <li>
-        [Mar/2022] Our paper titled <a href="http://hongyangdu.github.io/files/Du%20et%20al_2022_Performance%20and%20Optimization%20of%20Reconfigurable%20Intelligent%20Surface%20Aided%20THz.pdf">"Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"</a> is accepted by IEEE TCOM!
-    </li>
-    <li>
-        [Feb/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Du%20et%20al_Performance%20Analysis%20and%20Optimization%20for%20Jammer-Aided%20Multi-Antenna%20UAV%20Covert.pdf">"Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"</a> is accepted by IEEE JSAC (IF: 13.08, Q1)!
-    </li>
-    <li>
-        [Jan/2022] I am honored to be recognized as the <span style="color: green;">Exemplary Reviewer of the IEEE TCOM</span>, 2021!
-    </li>
+<ol start="11">
+    <li>[Oct/2023] We released the code for our *generative-AI for decition* paper <a href="https://arxiv.org/abs/2308.05384">"Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks"</a>. The code is available <a href="https://github.com/Lizonghang/AGOD">here</a>.</li>
+    <li>[Sept/2023] We released the code for our *generative diffusion model tutorial* paper <a href="https://arxiv.org/abs/2308.05384">"Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization"</a>. The code is available <a href="https://github.com/HongyangDu/GDMOPT">here</a>.</li>
+    <li>[Jun/2023] We released the code for our IEEE JSAC paper <a href="https://arxiv.org/abs/2303.01896">"AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"</a>. The code is available <a href="https://github.com/HongyangDu/SemSharing">here</a>.</li>
+    <li>[Jun/2023] We released the code for our IEEE JSAC paper <a href="https://arxiv.org/abs/2208.05438">"Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services"</a>. The code is available <a href="https://github.com/HongyangDu/AttentionQoE">here</a>.</li>
+    <li>[Jun/2023] It's a great honour to have been invited by <a href="https://www.qmul.ac.uk/">Queen Mary University of London</a> to give a talk about <font color=green>Exploring the Role of Generative AI in Wireless Networks: Applications, Optimization, and Challenges</font>!</li>
+    <li>[Jun/2023] I had the pleasure of participating in the IEEE International Conference on Communications in Rome, Italy. Reconnecting with familiar faces and forging new professional connections has been an enriching experience!</li>
+    <li>[May/2023] I am delighted to be invited by the <a href="https://www.cuhk.edu.cn/en/taxonomy/term/49">Future Network of Intelligence Institute</a> in <a href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong-Shenzhen</a> to give a talk about <font color=green>Generative AI in Intelligent Networks</font>! The slides are available <a href="https://hongyangdu.github.io/talks/2023/05/cuhksz/">here</a>.</li>
+    <li>[May/2023] We released the code for our paper <a href="https://arxiv.org/abs/2304.03446">"Exploring Collaborative Distributed Diffusion-Based AI-Generated Content (AIGC) in Wireless Networks"</a>. The code is available <a href="https://github.com/HongyangDu/DistributedDiffusion">here</a>.</li>
+    <li>[Apr/2023] I had the pleasure of visiting University of Technology Sydney, University of Sydney, and University of New South Wales in <font color=green>Australia</font>. Relaxing days!</li>
+    <li>[Apr/2023] Two first author JSAC papers <a href="https://arxiv.org/abs/2303.01896">"AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,"</a> and <a href="https://arxiv.org/abs/2211.12727">"Semantic Communications for Wireless Sensing: RIS-aided Encoding and Self-supervised Decoding,"</a> are accepted!</li>
+    <li>[Mar/2023] The definition of AI-Generated Content (AIGC) in our research <a href="https://arxiv.org/abs/2301.03220">paper</a> is identified as the "AIGC definition" in <a href="https://hongyangdu.github.io/posts/3000/01/blog-post-5/">Google search</a>. Interesting ^_^</li>
+    <li>[Feb/2023] One first author JSAC paper <a href="https://arxiv.org/abs/2208.05438">"Attention-aware Resource Allocation and QoE Analysis for Metaverse xURLLC Services,"</a> is accepted!</li>
+    <li>[Jan/2023] I visited <font color=green>Japan</font> and had the opportunity to explore the wonderful Tohoku University. Happy to make many new friends!</li>
+    <li>[Dec/2022] I visited <a href="https://www.skku.edu/eng/index.do">Sungkyunkwan University</a> in <font color=green>Korea</font>, hosted by Prof. <a href="http://wireless.skku.edu/english/viewforum.php?f=96">Dong In Kim</a>. It was a memorable month!</li>
+    <li>[Nov/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Yang%20et%20al_2022_Semantic%20Communications%20for%20Future%20Internet.pdf">"Semantic Communications for Future Internet: Fundamentals, Applications, and Challenges"</a> is accepted by IEEE COMST (IF: 33.84, Q1)!</li>
+    <li>[Nov/2022] I am honored to receive the <font color=green>IEEE Daniel E. Nobel Fellowship Award</font> (One person each year)!</li>
+    <li>[Oct/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Kang%20et%20al_2022_Personalized%20Saliency%20in%20Task-Oriented%20Semantic%20Communications.pdf">"Personalized Saliency in Task-Oriented Semantic Communications: Image Transmission and Performance Analysis"</a> is accepted by IEEE JSAC (IF: 13.08, Q1)!</li>
+    <li>[Jun/2022] I visited <a href="https://www.cmu.ac.th/en/">Chiang Mai University</a> in <span style="color: green;">Thailand</span>, hosted by <a href="https://scholar.google.com/citations?hl=zh-CN&user=iirwtGkAAAAJ">Prof. Maggie</a>. Very happy time!</li>
+    <li>[Mar/2022] Our paper titled <a href="http://hongyangdu.github.io/files/Du%20et%20al_2022_Performance%20and%20Optimization%20of%20Reconfigurable%20Intelligent%20Surface%20Aided%20THz.pdf">"Performance and Optimization of Reconfigurable Intelligent Surface Aided THz Communications"</a> is accepted by IEEE TCOM!</li>
+    <li>[Feb/2022] Our paper titled <a href="https://hongyangdu.github.io/files/Du%20et%20al_Performance%20Analysis%20and%20Optimization%20for%20Jammer-Aided%20Multi-Antenna%20UAV%20Covert.pdf">"Performance Analysis and Optimization for Jammer-Aided Multiantenna UAV Covert Communication"</a> is accepted by IEEE JSAC (IF: 13.08, Q1)!</li>
+    <li>[Jan/2022] I am honored to be recognized as the <span style="color: green;">Exemplary Reviewer of the IEEE TCOM</span>, 2021!</li>
 </ol>
 </details>
 
