@@ -22,6 +22,7 @@ Individually, our strength may have its limits; collectively, our potential is b
 
 News
 ======
+1. [July/2024] I am honored to be selected as the **sole winner** for the Graduate College’s <font color=green>Research Excellence Award</font> at NTU. This award is presented to graduate students who attained significant research achievements during their studies at NTU. The award recognises original, creative and widely disseminated student research with significant impacts on the field or society.
 1. [Jun/2024] Our paper, *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"*, was selected for the **Best Paper Award** in International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2311.11094) submitted to IEEE TPAMI got major revision decision.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2308.05384) was accepted by IEEE COMST.
@@ -35,7 +36,7 @@ News
 
 <details>
 <summary><strong>More News</strong></summary>
-<ol start="11">
+<ol start="12">
     <li>[Oct/2023] We released the code for our ''generative-AI for decition'' paper <a href="https://arxiv.org/abs/2308.05384">"Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks"</a>. The code is available <a href="https://github.com/Lizonghang/AGOD">here</a>.</li>
     <li>[Sept/2023] We released the code for our ''generative diffusion model tutorial'' paper <a href="https://arxiv.org/abs/2308.05384">"Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization"</a>. The code is available <a href="https://github.com/HongyangDu/GDMOPT">here</a>.</li>
     <li>[Jun/2023] We released the code for our IEEE JSAC paper <a href="https://arxiv.org/abs/2303.01896">"AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"</a>. The code is available <a href="https://github.com/HongyangDu/SemSharing">here</a>.</li>
