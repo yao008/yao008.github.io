@@ -22,7 +22,7 @@ Individually, our strength may have its limits; collectively, our potential is b
 
 News
 ======
-1. [July/2024] I am honored to be selected as the **sole winner** for the Graduate College’s <font color=green>Research Excellence Award</font> at NTU. This award is presented to graduate students who attained significant research achievements during their studies at NTU. The award recognises original, creative and widely disseminated student research with significant impacts on the field or society.
+1. [July/2024] I am honored to receive the NTU Graduate College's <font color=green>Research Excellence Award</font>. This award is presented annually to a single graduate student who attained significant research achievements during their studies at NTU. The award recognises original, creative and widely disseminated student research with significant impacts on the field or society.
 1. [Jun/2024] Our paper, *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"*, was selected for the **Best Paper Award** in International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2311.11094) submitted to IEEE TPAMI got major revision decision.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2308.05384) was accepted by IEEE COMST.
