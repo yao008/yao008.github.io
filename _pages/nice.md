@@ -1,6 +1,6 @@
 ---
 permalink: /nice/
-title: "Network Intelligence and Computing Ecosystem (NICE) Lab"
+title: "Network Intelligence and Computing Ecosystem (NICE)"
 excerpt: ""
 author_profile: true
 # redirect_from: 
@@ -8,6 +8,7 @@ author_profile: true
 #   - /nice.html
 ---
 
+<img src='/images/NICE.png' width = "500"><br/>
 
 ## Research Directions
 
