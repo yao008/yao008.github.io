@@ -15,12 +15,12 @@ author_profile: true
 Our main research directions include:
 
 1. AI for Network:
-   - Network optimization driven by generative AI
-   - Application of reinforcement learning in network control
+   - Generative artificial intelligence and network optimization
+   - Reinforcement learning and its applications in networking systems
    - AI-enabled semantic communications
 
 2. Network for AI:
-   - Distributed training and inference for large models
+   - Distributed training and inference of large AI models
    - Next-generation wireless transmission technologies
    - Edge intelligence
 
