@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongyang Du's Website"
 title_separator          : "-"
 name                     : &name "Hongyang Du"
-description              : &description "PhD Candidate, IEEE COMST EiC Assistant"
+description              : &description "Assistant Professor"
 url                      :  https://hongyangdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hongyangdu/hongyangdu.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hongyang Du"
   avatar           : "profile.png"
-  bio              : "Ph.D Candidate, College of Computing and Data Science, Nanyang Technological University"
+  bio              : "Incoming Assistant Professor,Department of Electrical and Electronic Engineering, the University of Hong Kong"
   location         : "Singapore"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao"
-  email            : hongyang001@e.ntu.edu.sg
+  email            : hhongyangdu001@gmail.com
   researchgate     : "https://www.researchgate.net/profile/Hongyang-Du-2"
   uri              :
   bitbucket        :

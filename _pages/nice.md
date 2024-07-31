@@ -1,14 +1,12 @@
 ---
 permalink: /nice/
-title: "NICE"
+title: "Network Intelligence and Computing Ecosystem (NICE) Lab"
 excerpt: ""
 author_profile: true
 # redirect_from: 
 #   # - /nice/
 #   - /nice.html
 ---
-
-# Network Intelligence and Computing Ecosystem (NICE) Lab
 
 
 ## Research Directions
@@ -46,4 +44,7 @@ Applications are accepted year-round. Successful candidates can be recommended f
 
 We welcome outstanding students (including qualified undergraduate and master's students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, or those intending to apply for a PhD at HKU.
 
-If you're interested in joining NICE Lab or would like more information, please contact me at hongyangdu001@gmail.com.
+If you're interested in joining NICE Lab or would like more information, please contact me:
+- Email: hongyangdu001@gmail.com
+- Subject Line: PhD/PostDoc/RA/xx Application-University-Name
+- Attachments: CV, undergraduate transcripts, relevant publications (if any)

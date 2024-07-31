@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 I will be joining the University of Hong Kong (HKU) as the assistant professor at the Department of Electrical and Electronic Engineering and establish the **Network Intelligence and Computing Ecosystem (NICE) Lab**. NICE lab focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems.
-I obtained my Ph.D. degree with the College of Computing and Data Science, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme). My research is supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I obtained BEng degree at Beijing Jiaotong University, China, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
-
-I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2023, the impact factor of IEEE COMST is 34.4, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts: Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
+I obtained my Ph.D. degree and worked as the PostDoc with the College of Computing and Data Science, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme). My research is supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I obtained BEng degree at Beijing Jiaotong University, China, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
 My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse.
 
@@ -169,7 +167,7 @@ Awards
 
 Academic Services
 ======
-1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials 2022, 2023 and 2024
+1. **Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials 2022, 2023 and 2024**
 1. TPC Chair, IEEE ICCC 2024, WS-17: Empowering Wireless Communications and Networking with Generative AI
 1. TPC Member, IEEE VTC2024-Fall Washington DC: Machine Learning for Communications
 1. TPC Member, IEEE VTC2024-Fall Washington DC: Electric Vehicles, Vehicular Electronics and Intelligent Transportation
