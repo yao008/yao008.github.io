@@ -44,7 +44,7 @@ Applications are accepted year-round:
 
 ### 3. Visiting Students / Research Assistants / Interns
 
-We welcome outstanding students (including qualified undergraduate and master's students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, or those intending to apply for a PhD at HKU.
+We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, or those intending to apply for a PhD at HKU with me.
 
 If you're interested in joining NICE Lab or would like more information, please contact me:
 - Email: hongyangdu001@gmail.com
