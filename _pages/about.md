@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am going to obtain my Ph.D. degree with the College of Computing and Data Science, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, in 2024, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme). My research is supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I obtained BEng degree at Beijing Jiaotong University, Beijing, China, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
+I will be joining the University of Hong Kong (HKU) as the assistant professor at the end of this year and establish the **Network Intelligence and Computing Ecosystem (NICE) Lab**. NICE lab focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems.
+I obtained my Ph.D. degree with the College of Computing and Data Science, [Energy Research Institute @ NTU](https://www.ntu.edu.sg/erian), Nanyang Technological University, Singapore, in 2024, under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme). My research is supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I obtained BEng degree at Beijing Jiaotong University, Beijing, China, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
 I now serve as the Editor-in-Chief Assistant of [IEEE Communications Surveys and Tutorials](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9739) (IEEE COMST). In 2023, the impact factor of IEEE COMST is 34.4, which is the highest one in all IEEE journals/magazines. To further promote IEEE COMST, I am helping to run some social accounts: Linkedin (@IEEE Communications Surveys And Tutorials), Twitter (@IEEECOMST), and WeChat Account (@IEEECOMST). Thanks for following!
 
-My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can be used to improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse. Please refer to this [repository](https://hongyangdu.github.io/DLab/) for the latest updates of Generative AI-related papers from our group!
+My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse.
 
-Individually, our strength may have its limits; collectively, our potential is boundless. **If you are interested to collaborate with me or just have a chat**, please feel free to email me (hongyang001@e.ntu.edu.sg)! I am always happy to discuss with / learn from different minds ^_^!
-
-> **<span style="color: red; background-color: yellow;">Currently, I am actively exploring job opportunities.</span>**
+> **<span style="color: red; background-color: yellow;">
+I have multiple openings for PhD students, postdoctoral researchers, visiting students, research assistants, and interns. Please find more details here.
+</span>**
 
 ---
 
