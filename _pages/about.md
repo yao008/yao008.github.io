@@ -8,10 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the University of Hong Kong (HKU) as an assistant professor at the Department of Electrical and Electronic Engineering and establishing the **Network Intelligence and Computing Ecosystem (NICE) Lab**. NICE lab focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems.
+I will be joining the University of Hong Kong (HKU) as an assistant professor at the Department of Electrical and Electronic Engineering in 2024 and establishing the **Network Intelligence and Computing Ecosystem (NICE) Lab**. The NICE lab focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems.
 I am currently working as a PostDoc in the College of Computing and Data Science, Nanyang Technological University, Singapore, where I obtained my Ph.D. under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme), supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I obtained BEng degree at Beijing Jiaotong University, China, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
-My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies, including Semantic Communications, Resource Allocation, Integrated Sensing and Communications, and Metaverse.
+My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI as a cutting-edge machine learning tool can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies:
+
+1. AI for Network:
+   - Generative artificial intelligence and network optimization
+   - Reinforcement learning and its applications in computer networking systems
+   - AI-enabled semantic communications
+   - Human-centric AI for user-centric network design
+
+2. Network for AI:
+   - Distributed training and inference of large AI models
+   - Next-generation wireless transmission technologies
+   - Edge intelligence
+
 
 > **<span style="color: red; background-color: yellow;">
 I have multiple openings for PhD students, postdoctoral researchers, visiting students, research assistants, and interns. Please find [more details here](https://hongyangdu.github.io/nice/).
