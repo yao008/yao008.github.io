@@ -58,7 +58,7 @@ Our research is highly interdisciplinary, involving collaboration with experts f
 
 ### 2. What I Expect from You:
 - **Strong self-motivation and ability to quickly learn from new fields.**
-- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates from ``985 / QS Top 80 universities'' or ``211 universities + strong publication records'' are especially encouraged due to HKU committee considerations.
+- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates from <i>985 / QS Top 80 universities</i> or <i>211 universities + strong publication records</i> are especially encouraged due to HKU committee considerations.
 - Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
 - Responsibility, reliability, and good communication skills.
 
@@ -69,4 +69,4 @@ If you're interested in joining NICE Lab or would like more information, please 
 - Subject Line: PhD/PostDoc/RA/xx Application-University-Name
 - Attachments: CV, undergraduate transcripts, relevant publications (if any), and research statement (optional but recommended; one page discussing your research background and its relevance to my work)
 
->Due to the large volume of emails I receive, I'm unable to respond to all of them including some from excellent applicants. However, I do read every email and reply to those most relevant to my work. I wish everyone success in finding a position that suits them best.
+>Because of the high volume of emails I receive, I may not be able to respond to everyone, including some excellent applicants. However, please note that I do read every email and will reply to those that are most relevant to my research. I wish everyone the best of luck in finding the position that suits them best.
