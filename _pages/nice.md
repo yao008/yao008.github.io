@@ -51,10 +51,10 @@ We welcome outstanding students (including qualified PhD students, master and un
 Our research is highly interdisciplinary, involving collaboration with experts from AI, networking system, human–computer interaction, psychology, and electrical engineering. Our focus is primarily on publishing in top-tier AI conferences and IEEE journals, complemented by practical implementations. Our primary goal is to prepare our students for future academic positions as well as high-impact positions in industry.
 
 ### What I Offer:
-- Resources: Full scholarships and research facilities.
-- Guidance: Hands-on mentorship. I strive to provide clear guidance to help you navigate your PhD journey. For outstanding students, I also offer ample freedom and opportunities for growth.
-- International Connections: Our lab has strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
-- Friendly Work Environment and Work-Life Balance: We foster a collaborative and supportive lab culture where teamwork and mutual respect are valued. We encourage activities that promote personal well-being alongside academic growth.
+- Resources: Full scholarships covering study and living in Hong Kong, plus access to advanced research facilities.
+- Guidance: Hands-on mentorship with clear direction. For outstanding students, I also offer ample freedom and opportunities for growth.
+- International Connections: Strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
+- Friendly Environment and Work-Life Balance: Collaborative and supportive lab culture where teamwork and mutual respect are valued. Say no to 996; embrace sustainable productivity.
 
 ### What I Expect from You:
 - Strong self-motivation and ability to quickly learn from new fields.
