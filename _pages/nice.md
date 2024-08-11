@@ -50,15 +50,15 @@ We welcome outstanding students (including qualified PhD students, master and un
 ## My Support and Expectations
 Our research is highly interdisciplinary, involving collaboration with experts from AI, networking system, human–computer interaction, psychology, and electrical engineering. Our focus is primarily on publishing in top-tier AI conferences and IEEE journals, complemented by practical implementations. Our primary goal is to prepare our students for future academic positions as well as high-impact positions in industry.
 
-### What I Offer:
+### 1. What I Offer:
 - Resources: Full scholarships covering study and living in Hong Kong, plus access to advanced research facilities.
 - Guidance: **Hands-on mentorship with clear direction.** For outstanding students, I also offer ample freedom and opportunities for growth.
 - International Connections: Strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
 - Friendly Environment and Work-Life Balance: Collaborative and supportive lab culture where teamwork and mutual respect are valued. **Say no to 996; embrace sustainable productivity.**
 
-### What I Expect from You:
+### 2. What I Expect from You:
 - **Strong self-motivation and ability to quickly learn from new fields.**
-- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates from *``985 / QS Top 80 universities''* or *``211 universities + strong publication records''* are especially encouraged due to HKU committee considerations.
+- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates from ``985 / QS Top 80 universities'' or ``211 universities + strong publication records'' are especially encouraged due to HKU committee considerations.
 - Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
 - Responsibility, reliability, and good communication skills.
 
