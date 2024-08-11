@@ -47,7 +47,25 @@ Applications are accepted year-round:
 
 We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, or those intending to apply for a PhD at HKU with me.
 
+
+## My Support and Expectations
+Our research is highly interdisciplinary, involving collaboration with experts from AI, networking system, human–computer interaction, psychology, and electrical engineering.
+### What I Offer:
+- Resources: Full scholarships and research facilities.
+- Guidance: Weekly meetings and hands-on mentorship. I strive to provide clear guidance to help you navigate your PhD journey.
+- International Connections: Our lab has strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
+- Friendly Work Environment and Work-Life Balance: We foster a collaborative and supportive lab culture where teamwork and mutual respect are valued. We encourage activities that promote personal well-being alongside academic growth.
+### What I Expect from You:
+- Strong self-motivation and ability to quickly learn from new fields.
+- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields.
+- Relevant research experience and coding ability demonstrated through papers, projects, or coding competitions.
+- Responsibility, reliability, and good communication skills.
+
+## How to apply
+
 If you're interested in joining NICE Lab or would like more information, please contact me:
 - Email: hongyangdu001@gmail.com
 - Subject Line: PhD/PostDoc/RA/xx Application-University-Name
 - Attachments: CV, undergraduate transcripts, relevant publications (if any)
+
+>Due to the large volume of emails I receive, I'm unable to respond to all of them. However, I do read every email and reply to those most relevant to my work. I wish everyone success in finding a position that suits them best.
