@@ -47,18 +47,19 @@ Applications are accepted year-round:
 
 We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, or those intending to apply for a PhD at HKU with me.
 
-
 ## My Support and Expectations
-Our research is highly interdisciplinary, involving collaboration with experts from AI, networking system, human–computer interaction, psychology, and electrical engineering.
+Our research is highly interdisciplinary, involving collaboration with experts from AI, networking system, human–computer interaction, psychology, and electrical engineering. Our focus is primarily on publishing in top-tier AI conferences and IEEE journals, complemented by practical implementations. Our primary goal is to prepare our students for future academic positions as well as high-impact positions in industry.
+
 ### What I Offer:
 - Resources: Full scholarships and research facilities.
-- Guidance: Weekly meetings and hands-on mentorship. I strive to provide clear guidance to help you navigate your PhD journey.
+- Guidance: Hands-on mentorship. I strive to provide clear guidance to help you navigate your PhD journey. For outstanding students, I also offer ample freedom and opportunities for growth.
 - International Connections: Our lab has strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
 - Friendly Work Environment and Work-Life Balance: We foster a collaborative and supportive lab culture where teamwork and mutual respect are valued. We encourage activities that promote personal well-being alongside academic growth.
+
 ### What I Expect from You:
 - Strong self-motivation and ability to quickly learn from new fields.
 - Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields.
-- Relevant research experience and coding ability demonstrated through papers, projects, or coding competitions.
+- Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
 - Responsibility, reliability, and good communication skills.
 
 ## How to apply
