@@ -69,4 +69,4 @@ If you're interested in joining NICE Lab or would like more information, please 
 - Subject Line: PhD/PostDoc/RA/xx Application-University-Name
 - Attachments: CV, undergraduate transcripts, relevant publications (if any)
 
->Due to the large volume of emails I receive, I'm unable to respond to all of them. However, I do read every email and reply to those most relevant to my work. I wish everyone success in finding a position that suits them best.
+>Due to the large volume of emails I receive, I'm unable to respond to all of them including some from excellent applicants. However, I do read every email and reply to those most relevant to my work. I wish everyone success in finding a position that suits them best.
