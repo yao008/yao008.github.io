@@ -58,7 +58,7 @@ Our research is highly interdisciplinary, involving collaboration with experts f
 
 ### What I Expect from You:
 - Strong self-motivation and ability to quickly learn from new fields.
-- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields.
+- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates from '985 / QS Top 80 universities' or '211 universities + strong publication records' are especially encouraged due to committee considerations.
 - Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
 - Responsibility, reliability, and good communication skills.
 
