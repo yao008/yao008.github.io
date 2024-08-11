@@ -52,13 +52,13 @@ Our research is highly interdisciplinary, involving collaboration with experts f
 
 ### What I Offer:
 - Resources: Full scholarships covering study and living in Hong Kong, plus access to advanced research facilities.
-- Guidance: Hands-on mentorship with clear direction. For outstanding students, I also offer ample freedom and opportunities for growth.
+- Guidance: **Hands-on mentorship with clear direction.** For outstanding students, I also offer ample freedom and opportunities for growth.
 - International Connections: Strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
-- Friendly Environment and Work-Life Balance: Collaborative and supportive lab culture where teamwork and mutual respect are valued. Say no to 996; embrace sustainable productivity.
+- Friendly Environment and Work-Life Balance: Collaborative and supportive lab culture where teamwork and mutual respect are valued. **Say no to 996; embrace sustainable productivity.**
 
 ### What I Expect from You:
-- Strong self-motivation and ability to quickly learn from new fields.
-- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates from '985 / QS Top 80 universities' or '211 universities + strong publication records' are especially encouraged due to committee considerations.
+- **Strong self-motivation and ability to quickly learn from new fields.**
+- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates from *``985 / QS Top 80 universities''* or *``211 universities + strong publication records''* are especially encouraged due to HKU committee considerations.
 - Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
 - Responsibility, reliability, and good communication skills.
 
@@ -67,6 +67,6 @@ Our research is highly interdisciplinary, involving collaboration with experts f
 If you're interested in joining NICE Lab or would like more information, please contact me:
 - Email: hongyangdu001@gmail.com
 - Subject Line: PhD/PostDoc/RA/xx Application-University-Name
-- Attachments: CV, undergraduate transcripts, relevant publications (if any)
+- Attachments: CV, undergraduate transcripts, relevant publications (if any), and research statement (optional but recommended; one page discussing your research background and its relevance to my work)
 
 >Due to the large volume of emails I receive, I'm unable to respond to all of them including some from excellent applicants. However, I do read every email and reply to those most relevant to my work. I wish everyone success in finding a position that suits them best.
