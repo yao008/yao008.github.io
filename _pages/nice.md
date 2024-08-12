@@ -39,7 +39,7 @@ Our research is highly interdisciplinary, involving collaboration with experts f
 - Academic Foundation: Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates with bachelor's degrees from <i>985 / QS Top 50 universities</i> or <i>211 / QS Top 80 universities + strong publication records</i> are encouraged due to HKU committee considerations.
 - Experience: Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
 - Personal Qualities: Responsibility, reliability, and good communication skills.
-- Graduation Requirements: There is NO requirement for the number of papers. **Instead, the graduation requirement is for us to work together to help you find a satisfactory job.** Your success marks the completion of our collaborative journey.
+- Graduation Requirements: A PhD degree is just a ticket for your future career, so there is NO requirement for the NUMBER of papers. **Instead, the graduation requirement is for us to work together to help you find a satisfactory job, which marks the success of our collaborative journey.** 
 
 ## Open Positions
 
