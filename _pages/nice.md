@@ -25,6 +25,23 @@ Our main research directions include:
    - Next-generation wireless transmission technologies
    - Edge intelligence
 
+## My Support and Expectations
+Our research is highly interdisciplinary, involving collaboration with experts from AI, networking systems, human–computer interaction, psychology, and electrical engineering. Our focus is primarily on publishing in top-tier AI conferences and IEEE journals, complemented by practical implementations. Our primary goal is to prepare our students for future academic positions as well as high-impact positions in industry. Here's what we're looking for and what you can expect from this journey:
+
+### 1. What I Offer:
+- Resources: Full scholarships covering study and living in Hong Kong, plus access to advanced research facilities.
+- Guidance: **Hands-on mentorship with clear direction.** For outstanding students, I also offer adequate freedom and opportunities for growth.
+- International Connections: Strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
+- Friendly Environment and Work-Life Balance: Collaborative and supportive lab culture where teamwork and mutual respect are valued. **Say no to 996; embrace sustainable productivity.**
+
+### 2. What I Expect from You:
+- Passion for Learning: **Strong self-motivation and ability to quickly learn from new fields.**
+- Academic Foundation: Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates with bachelor's degrees from <i>985 / QS Top 50 universities</i> or <i>211 / QS Top 80 universities + strong publication records</i> are encouraged due to HKU committee considerations.
+- Experience: Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
+- Responsibility, reliability, and good communication skills.
+- Graduation Requirements: There is NO requirement for the number of papers. Instead, our graduation goal is for us to work together to help you find a satisfactory job. Your success marks the completion of our collaborative journey.
+
+
 ## Open Positions
 
 We have multiple openings for PhD students, postdoctoral researchers, visiting students, research assistants, and interns:
@@ -46,21 +63,6 @@ Applications are accepted year-round:
 ### 3. Visiting Students / Research Assistants / Interns
 
 We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, or those intending to apply for a PhD at HKU with me.
-
-## My Support and Expectations
-Our research is highly interdisciplinary, involving collaboration with experts from AI, networking system, human–computer interaction, psychology, and electrical engineering. Our focus is primarily on publishing in top-tier AI conferences and IEEE journals, complemented by practical implementations. Our primary goal is to prepare our students for future academic positions as well as high-impact positions in industry.
-
-### 1. What I Offer:
-- Resources: Full scholarships covering study and living in Hong Kong, plus access to advanced research facilities.
-- Guidance: **Hands-on mentorship with clear direction.** For outstanding students, I also offer adequate freedom and opportunities for growth.
-- International Connections: Strong ties with leading researchers and institutions worldwide. I will help you build international academic connections.
-- Friendly Environment and Work-Life Balance: Collaborative and supportive lab culture where teamwork and mutual respect are valued. **Say no to 996; embrace sustainable productivity.**
-
-### 2. What I Expect from You:
-- **Strong self-motivation and ability to quickly learn from new fields.**
-- Academic background in computer science, AI, electrical engineering, electronic information/communication engineering, mathematics, or related fields. Candidates with bachelor's degrees from <i>985 / QS Top 50 universities</i> or <i>211 / QS Top 80 universities universities + strong publication records</i> are encouraged due to HKU committee considerations.
-- Relevant research experience and coding ability demonstrated through papers, projects, or competitions.
-- Responsibility, reliability, and good communication skills.
 
 ## How to apply
 
