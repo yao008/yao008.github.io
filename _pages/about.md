@@ -26,7 +26,7 @@ My research is primarily centered around the utilization of **Generative AI in I
 
 
 > **<span style="color: red; background-color: yellow;">
-I have multiple openings for PhD students (25Fall), postdoctoral researchers, visiting students, research assistants, and interns. Please find [more details here](https://hongyangdu.github.io/nice/).
+I have multiple openings for PhD students (For 25 Fall admissions, emailing me before Sept-1st-2024 would be good), postdoctoral researchers, visiting students, research assistants, and interns. Please find [more details here](https://hongyangdu.github.io/nice/).
 </span>**
 
 ---
