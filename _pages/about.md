@@ -185,22 +185,8 @@ Academic Services
 1. **Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials 2022, 2023 and 2024**
 1. Guest Editor, IEEE Vehicular Technology Magazine, "Integrating Generative AI into Future Internet of Vehicles (IoV)"
 1. Workshop Co-chair, "Empowering Wireless Communications and Networking with Generative AI" in IEEE ICCC 2024
-1. TPC member, IEEE Globecom 2024 Workshop - IMMLLM6G
 1. TPC Chair, IEEE ICCC 2024, WS-17: Empowering Wireless Communications and Networking with Generative AI
-1. TPC Member, IEEE VTC2024-Fall Washington DC: Machine Learning for Communications
-1. TPC Member, IEEE VTC2024-Fall Washington DC: Electric Vehicles, Vehicular Electronics and Intelligent Transportation
-1. TPC Member, IEEE Globecom 2024, SAC BD
-1. TPC Member, IEEE Globecom 2024, SAC ISC
-1. Session Chair, IEEE Globecom 2023 Cognitive Radio and AI-Enabled Networks
-1. TPC Member, IEEE ICC 2024, CRAIN Symposium (Cognitive Radio and AI-Enabled Networks)
-1. TPC Member, IEEE WCNC 2024, Track 3 – Machine Learning and Optimization for Wireless Systems
-1. TPC Member, IEEE WCNC 2024, Track 4 – Emerging Technologies, Standards, and Applications
-1. TPC Member, IEEE WCNC 2024, Workshop on The Impact of Large Language Models on 6G Networks
-1. TPC Member, VTC2023-Fall: Hong Kong, Machine Learning and AI for Communications
-1. TPC Member, VTC2023-Fall: Hong Kong, Electric Vehicles, Vehicular Electronics and Intelligent Transportation
-1. TPC Member, VTC2023-Fall: Hong Kong, Recent Results and Workshops
-1. TPC Member, IEEE WCNC 2023, Track 3 – Machine Learning and Optimization for Wireless Systems
-1. TPC Member, IEEE WCNC 2022, Track 2 – Networking and MAC
+1. TPC Member: IEEE Globecom 2024 Workshop - IMMLLM6G, IEEE VTC2024-Fall Washington DC: Machine Learning for Communications, IEEE VTC2024-Fall Washington DC: Electric Vehicles, Vehicular Electronics and Intelligent Transportation, IEEE Globecom 2024-SAC BD, IEEE Globecom 2024-SAC ISC, IEEE ICC 2024-CRAIN Symposium (Cognitive Radio and AI-Enabled Networks), IEEE WCNC 2024-Track 3-Machine Learning and Optimization for Wireless Systems, IEEE WCNC 2024-Track 4-Emerging Technologies, Standards, and Applications, IEEE WCNC 2024-Workshop on The Impact of Large Language Models on 6G Networks, VTC2023-Fall: Hong Kong, Machine Learning and AI for Communications, VTC2023-Fall: Hong Kong-Electric Vehicles, Vehicular Electronics and Intelligent Transportation, VTC2023-Fall: Hong Kong-Recent Results and Workshops, IEEE WCNC 2023-Track 3-Machine Learning and Optimization for Wireless Systems, IEEE WCNC 2022-Track 2-Networking and MAC
 1. Reviewer: IEEE COMST, JSAC, TMC, TWC, TIFS, TCOM, TVT, WCM, IoTJ, Network, WCL, CL, ICLR, and more.
 
 
