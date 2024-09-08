@@ -56,7 +56,8 @@ Primarily for Fall 2025 admission, with several full scholarship opportunities:
 
 Applications are accepted year-round:
 - Normal track
-- [RGC Postdoctoral Fellowship Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/pdfs/)
+- [RGC Junior Research Fellow Scheme](https://www.ugc.edu.hk/eng/rgc/funding_opport/jrfs/)
+- JC STEM Early Career Research Fellowship for Translation and Application
 - [香江學者計劃 Hong Kong Scholars Program](https://www.hkscholars.org/)
 
 ### 3. Visiting Students / Research Assistants / Interns
