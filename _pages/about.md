@@ -11,7 +11,7 @@ redirect_from:
 I will be an assistant professor at the Department of Electrical and Electronic Engineering, the University of Hong Kong (HKU) (since Nov. 1st, 2024), and the Principal Investigator (PI) of the **Network Intelligence and Computing Ecosystem (NICE) Lab**. The [NICE lab](https://hongyangdu.github.io/nice/) focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems.
 I worked as a PostDoc in the College of Computing and Data Science, Nanyang Technological University, Singapore, where I obtained my Ph.D. under the [Interdisciplinary Graduate Program](https://www.ntu.edu.sg/graduate-college/admissions/programme/interdisciplinary-graduate-programme), supervised by Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). Prior to this, I obtained BEng degree at Beijing Jiaotong University, China, under the guidance of Prof. [Jiayi Zhang](http://faculty.bjtu.edu.cn/8946/).
 
-My research is primarily centered around the utilization of **Generative AI in Intelligent networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies:
+My research is primarily centered around the utilization of **Generative AI in Intelligent Networks**. Our key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies:
 
 1. AI for Network:
    - Generative artificial intelligence and network optimization
@@ -33,6 +33,7 @@ I have multiple openings for PhD students (For 25 Fall admissions, regular PGS p
 
 News
 ======
+1. [Sept/2024] I am honored to join as an **Associate Editor** for the Wireless Networks and Mobile Services track of IEEE Transactions on Vehicular Technology (TVT) and am excited to contribute to our community in this capacity.
 1. [July/2024] I am honored to receive the NTU Graduate College's <font color=green>Research Excellence Award</font>. 
 1. [Jun/2024] Our paper, *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"*, was selected for the **Best Paper Award** in International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2311.11094) submitted to IEEE TPAMI got major revision decision.
