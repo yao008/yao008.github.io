@@ -34,11 +34,11 @@ I have multiple openings for PhD students (For 25 Fall admissions, regular PGS p
 News
 ======
 1. [Sept/2024] I am honored to join as an **Associate Editor** for the Wireless Networks and Mobile Services track of IEEE Transactions on Vehicular Technology (TVT) and am excited to contribute to our community in this capacity.
+1. [Aug/2024] I have accepted a Letter of Appointment from the University of Hong Kong (HKU) as an Assistant Professor in the Department of Electrical and Electronic Engineering (EEE). I look forward to contributing to cutting-edge research and collaborating with distinguished colleagues and talented students!
 1. [July/2024] I am honored to receive the NTU Graduate College's <font color=green>Research Excellence Award</font>. 
 1. [Jun/2024] Our paper, *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"*, was selected for the **Best Paper Award** in International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2311.11094) submitted to IEEE TPAMI got major revision decision.
 1. [May/2024] One [first-author paper](https://arxiv.org/abs/2308.05384) was accepted by IEEE COMST.
-1. [May/2024] Oral defence of my PhD thesis!
 1. [Apr/2024] We will organize a workshop ["Empowering Wireless Communications and Networking with Generative AI"](https://iccc2024.ieee-iccc.org/program/workshops-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!
 1. [Mar/2024] We will give a tutorial ["Generative Artificial Intelligence-empowered Networks: Optimization and Applications"](https://iccc2024.ieee-iccc.org/program/tutorials-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!
 1. [Dec/2023] I am honored to receive the  <font color=green>Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship</font>. This programme provides ten cash awards of S$10,000 for doctoral students at Singapore universities.
