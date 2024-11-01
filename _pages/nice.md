@@ -47,7 +47,7 @@ We have multiple openings for PhD students, postdoctoral researchers, visiting s
 
 ### 1. PhD Students
 
-Primarily for Fall 2025 admission, with several full scholarship opportunities:
+Several full scholarship opportunities:
 - [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/postgraduate_scholarships): HK$18,760 per month
 - [Hong Kong PhD Fellowship Scheme (HKPFS)](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme): HK$28,100 per month
 - [HKU Presidential Scholarship (HKU-PS)](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme): HK$28,100 per month
@@ -62,7 +62,7 @@ Applications are accepted year-round:
 
 ### 3. Visiting Students / Research Assistants / Interns
 
-We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, or those intending to apply for a PhD at HKU with me.
+We welcome outstanding students (including qualified PhD students, master and undergraduate students, either online or in-person) to join our lab and participate in cutting-edge research projects. Priority will be given to students who can build long-term collaboration, HKU students, and those intending to apply for a PhD at HKU with me.
 
 ## How to apply
 
