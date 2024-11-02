@@ -67,7 +67,7 @@ We welcome outstanding students (including qualified PhD students, master and un
 ## How to apply
 
 If you're interested in joining NICE Lab or would like more information, please contact me:
-- Email: duhy@eee.hku.hk
+- Email: duhy@hku.hk
 - Subject Line: PhD/PostDoc/RA/xx Application-University-Name
 - Attachments: CV, undergraduate transcripts, relevant publications (if any), and research statement (optional but recommended; one page discussing your research background and its relevance to my work)
 
