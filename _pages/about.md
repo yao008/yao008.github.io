@@ -38,7 +38,7 @@ News
 
 1. [Dec/2024] Our paper "Blockchain-Aided Secure Semantic Communication for AI-Generated Content in Metaverse" has been awarded the **2023 Best Paper Award** from IEEE Open Journal of the Computer Society by the IEEE Computer Society Publications Board.
 
-1. [Nov/2024] I am invited as a keynote speaker at the *International Conference on the Next Generation Intelligent Networks* in Zhuhai, Xi'an, organized by Xijiao Institute for Cyber Science and Technology.
+1. [Nov/2024] I am invited as a keynote speaker at the *International Conference on the Next Generation Intelligent Networks*, organized by Xijiao Institute for Cyber Science and Technology.
 
 1. [Nov/2024] Our project "Gaiety: Generative AI-empowered Edge Hub for Accessible and Immersive Meta-Home" received a *Honorary Mention* in the 2024 ComSoc Student Competition "Communications Technology Changing the World".
 
