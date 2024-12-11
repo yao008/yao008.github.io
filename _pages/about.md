@@ -40,7 +40,7 @@ News
 
 1. [Nov/2024] I am invited as a keynote speaker at the *International Conference on the Next Generation Intelligent Networks* in Zhuhai, Xi'an, organized by Xijiao Institute for Cyber Science and Technology.
 
-1. [Nov/2024] Our project ``Gaiety: Generative AI-empowered Edge Hub for Accessible and Immersive Meta-Home''received a *Honorary Mention* in the 2024 ComSoc Student Competition "Communications Technology Changing the World".
+1. [Nov/2024] Our project "Gaiety: Generative AI-empowered Edge Hub for Accessible and Immersive Meta-Home" received a *Honorary Mention* in the 2024 ComSoc Student Competition "Communications Technology Changing the World".
 
 1. [Sept/2024] I am honored to join as an **Associate Editor** for the Wireless Networks and Mobile Services track of IEEE Transactions on Vehicular Technology (TVT) and am excited to contribute to our community in this capacity.
 
