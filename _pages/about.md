@@ -42,6 +42,8 @@ News
 
 1. [Nov/2024] Our project "Gaiety: Generative AI-empowered Edge Hub for Accessible and Immersive Meta-Home" received a *Honorary Mention* in the 2024 ComSoc Student Competition "Communications Technology Changing the World".
 
+1. [Oct/2024] Our paper "DIsFU: Protecting Innocent Clients in Federated Unlearning" has been awarded the **Best Paper Award** in *International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)*.
+
 1. [Sept/2024] I am honored to join as an **Associate Editor** for the Wireless Networks and Mobile Services track of IEEE Transactions on Vehicular Technology (TVT) and am excited to contribute to our community in this capacity.
 
 1. [Aug/2024] I have accepted a Letter of Appointment from the University of Hong Kong (HKU) as an Assistant Professor in the Department of Electrical and Electronic Engineering (EEE). I look forward to contributing to cutting-edge research and collaborating with distinguished colleagues and talented students!
