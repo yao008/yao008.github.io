@@ -68,7 +68,7 @@ News
 
 <details>
 <summary><strong>More News</strong></summary>
-<ol start="16">
+<ol start="17">
     <li>[Oct/2023] We released the code for our ''generative-AI for decition'' paper <a href="https://arxiv.org/abs/2308.05384">"Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks"</a>. The code is available <a href="https://github.com/Lizonghang/AGOD">here</a>.</li>
     <li>[Sept/2023] We released the code for our ''generative diffusion model tutorial'' paper <a href="https://arxiv.org/abs/2308.05384">"Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization"</a>. The code is available <a href="https://github.com/HongyangDu/GDMOPT">here</a>.</li>
     <li>[Jun/2023] We released the code for our IEEE JSAC paper <a href="https://arxiv.org/abs/2303.01896">"AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"</a>. The code is available <a href="https://github.com/HongyangDu/SemSharing">here</a>.</li>
