@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Highlights"
 excerpt: ""
 author_profile: true
 # redirect_from: 
