@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 # Network for LLM Services
-1. Feiran You, **Hongyang Du**, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), 2024. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
+1. Feiran You, **Hongyang Du**, Kaibin Huang, and Abbas Jamalipour. "Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression." arXiv preprint arXiv:2412.03621, 2024.
 
 # Distributed Diffusion Model
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ``User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content.'', submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** *(IF: 23.6)*, Major Revision, 2024.
@@ -20,6 +20,8 @@ author_profile: true
 1. **Hongyang Du**, Ruichen Zhang, Yinqiu Liu, Jiacheng Wang, Yijing Lin, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Bo Ai, Haibo Zhou, and Dong In Kim. ``Enhancing deep reinforcement learning: A tutorial on generative diffusion models in network optimization.'', **IEEE Communications Surveys & Tutorials** *(IF: 35.6)*, accepted, 2024.
 
 1. **Hongyang Du**, Zonghang Li, Dusit Niyato, Jiawen Kang, Zehui Xiong, Huawei Huang, and Shiwen Mao. ``Diffusion-based Reinforcement Learning for Edge-enabled AI-Generated Content Services,'' **IEEE Transactions on Mobile Computing** *(IF: 7.9)*, accepted, 2024.
+
+1. Changyuan Zhao, **Hongyang Du** *(corresponding author)*, Guangyuan Liu, and Dusit Niyato. "Supervised Score-Based Modeling by Gradient Boosting.", **AAAI Conference on Artificial Intelligence**, 2024.
 
 1. **Hongyang Du**, Jiacheng Wang, Dusit Niyato, Jiawen Kang, Zehui Xiong, and Dong In Kim, ``AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing,'' **IEEE Journal on Selected Areas in Communications** *(IF: 16.4)*, vol. 41, pp. 2981-2997, Sept. 2023.
 > Selected by IEEE JSAC Popular Documents - October 2023
