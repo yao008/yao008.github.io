@@ -158,6 +158,10 @@ Selected Collaborative Papers
 
 Awards
 ======
+1. **IEEE ComSoc Best Young Professional Award for Best Early Career Researcher**, 2024 
+<br/> <font color="#CC5500"><i>&bull; IEEE Communications Society<i><font>
+<br/> <font color="#CC5500"><i>&bull; Only six person is selected globally each year; only one person for “Best Early Career Researcher” category<i><font>
+<br/><img src='/images/ber.jpg' width= "500"> 
 1. **IEEE Daniel E. Nobel Fellowship Award**, 2022 
 <br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Vehicular Technology Society<i><font>
 <br/> <font color="#CC5500"><i>&bull; Only one person is selected globally each year<i><font>
@@ -174,6 +178,8 @@ Awards
 1. **NTU Graduate College's Research Excellence Award**, 2024
 <br/> <font color="#CC5500"><i>&bull; Only one student is selected each year.<i><font>
 <br/><img src='/images/Award/gcresearch.png' width= "500"> 
+1. **Best Paper Award** of IEEE Open Journal of the Computer Society
+<br/><img src='/images/Award/bpojcs.png' width= "500"> 
 1. **Best Paper Award** in the IWCMC 2024 Conference Ayia Napa, Cyprus, May 27th – 31st 2024
 <br/><img src='/images/Award/iwcmcbp.png' width= "500"> 
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
