@@ -224,17 +224,14 @@ Teaching
 
 ---
 
-***
 >*“Life brings many sorrows. Looking back when unhappy won't bring joy.   
->Dreams, however beautiful, are just dreams. Cherish the present, for it's real. Don't waste time in lonely reflection
-> - toast to those who share your path today.”*
+>Dreams, however beautiful, are just dreams. Cherish the present, for it's real. Don't waste time in lonely reflection, toast to those who share your path today.”*
 >
 >*“生活中有很多的不如意，如果一不开心，就寄希望于当初，那你永远不会开心。  
 >幻境再美终是梦，珍惜眼前始为真，莫使金樽空对月，举杯幸会有缘人。”*
 >
 >*---------《武林外传》*
 
-***
 
 ---
 
