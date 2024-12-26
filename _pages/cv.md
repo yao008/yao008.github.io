@@ -8,6 +8,9 @@ author_profile: true
 #   - /publications.html
 ---
 
+# Network for LLM Services
+1. Feiran You, **Hongyang Du**, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), 2024. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
+
 # Distributed Diffusion Model
 1. **Hongyang Du**, Ruichen Zhang, Dusit Niyato, Jiawen Kang, Zehui Xiong, Shuguang Cui, Xuemin Shen, Dong In Kim. ``User-Centric Interactive AI for Distributed Diffusion Model-based AI-Generated Content.'', submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence** *(IF: 23.6)*, Major Revision, 2024.
 
