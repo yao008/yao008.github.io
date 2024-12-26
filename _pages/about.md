@@ -102,6 +102,7 @@ Highlighted NICE Lab Work
 ======
 
 > Network-aided LLM Inference
+
 1. Feiran You, **Hongyang Du**, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), 2024. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
 
 ---
