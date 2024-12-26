@@ -10,22 +10,15 @@ author_profile: true
 
 <img src='/images/NICE.png' width = "500"><br/>
 
-## Research Directions
+## Research Aim
 
-Our main research directions include:
+At the NICE Lab, we envision a future where AI and networks converge to create intelligent digital ecosystems. Our mission is to pioneer transformative technologies at this intersection, developing next-generation systems that are both technologically advanced and human-centric, ultimately building the foundation for a fully connected, intelligent world.
 
-1. AI for Network:
-   - Generative artificial intelligence and network optimization
-   - Reinforcement learning and its applications in computer networking systems
-   - AI-enabled semantic communications
-   - Human-centric AI for user-centric network design
+## Team Members
 
-2. Network for AI:
-   - Distributed training and inference of large AI models
-   - Next-generation wireless transmission technologies
-   - Edge intelligence
 
 ## My Support and Expectations
+
 Our research is highly interdisciplinary, involving collaboration with experts from AI, networking systems, human–computer interaction, psychology, and electrical engineering. Our focus is primarily on publishing in top-tier AI conferences and IEEE journals, complemented by practical implementations. Our primary goal is to prepare our students for future academic positions as well as high-impact positions in industry. Here's what we're looking for and what you can expect from this journey:
 
 ### 1. What I Offer:
