@@ -30,12 +30,7 @@ My research is primarily centered around the utilization of **Generative AI in I
 
 ---
 
-
-***
-
 >*I have multiple openings for PhD students, postdoctoral researchers, visiting students, and interns. Please find [more details here](https://hongyangdu.github.io/nice/).*
-
-***
 
 ---
 
