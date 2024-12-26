@@ -179,7 +179,7 @@ Awards
 <br/> <font color="#CC5500"><i>&bull; Only one student is selected each year.<i><font>
 <br/><img src='/images/Award/gcresearch.png' width= "500"> 
 1. **Best Paper Award** of IEEE Open Journal of the Computer Society
-<br/><img src='/images/Award/bpojcs.png' width= "500"> 
+<br/><img src='/images/bpojcs.png' width= "500"> 
 1. **Best Paper Award** in the IWCMC 2024 Conference Ayia Napa, Cyprus, May 27th – 31st 2024
 <br/><img src='/images/Award/iwcmcbp.png' width= "500"> 
 1. **First Prize** in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition 
