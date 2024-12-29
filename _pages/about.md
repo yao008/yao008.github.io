@@ -36,6 +36,8 @@ Our research is primarily centered around the utilization of **Generative AI in 
 News
 ======
 
+1. [Dec/2024] I am honored to join as an **Associate Editor** for the *Machine Learning and Communications* track of IEEE Transactions on Communications (IEEE TCOM). I look forward to serving our research community and advancing the field in this new role.
+
 1. [Dec/2024] I am honored to receive the **IEEE ComSoc Best Young Professional Award** in the "Best Early Career" category.
 
 1. [Dec/2024] Our paper "Blockchain-Aided Secure Semantic Communication for AI-Generated Content in Metaverse" has been awarded the **2023 Best Paper Award** from IEEE Open Journal of the Computer Society by the IEEE Computer Society Publications Board.
@@ -204,6 +206,7 @@ Awards
 Academic Services
 ======
 1. **Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials (2022-)**
+1. **Associate Editor, IEEE Transactions on Communications (2024-)**
 1. **Associate Editor, IEEE Transactions on Vehicular Technology (2024-)**
 1. **Guest Editor, IEEE Vehicular Technology Magazine**, *"Integrating Generative AI into Future Internet of Vehicles (IoV)"*, 2024
 1. Workshop Co-chair, "Empowering Wireless Communications and Networking with Generative AI" in IEEE ICCC 2024
