@@ -189,6 +189,9 @@ Awards
 1. **Honorary Mention** in the 2023 ComSoc Student Competition ``Communications Technology Changing the World.'', 2023 
 <br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society<i><font>
 <br/> <img src='/images/stucom.png' width= "500">
+1. **Honorary Mention** in the 2024 ComSoc Student Competition ``Communications Technology Changing the World.'', 2024 
+<br/> <font color="#CC5500"><i>&bull; <b>IEEE society-level</b> award from IEEE Communications Society, <b>Team Advisor</b><i><font>
+<br/> <img src='/images/2024stuw.png' width= "500">
 1. **Exemplary Reviewer** of the IEEE TRANSACTIONS ON COMMUNICATIONS, 2021 
 <br/><img src='/images/ReTCOM.jpg' width= "500">
 1. **Exemplary Reviewer** of the IEEE COMMUNICATIONS LETTERS, 2021 
