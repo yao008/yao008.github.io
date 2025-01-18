@@ -36,6 +36,12 @@ Our research is primarily centered around the utilization of **Generative AI in 
 News
 ======
 
+1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Intelligent Communications: Modelling, Operation and Digital Twin* track of IEEE Communications Surveys & Tutorials (IEEE COMST). Eager to contribute to advancing research in this field.
+
+1. [Jan/2025] As the corresponding author, I'm happy that our paper *"Supervised Score-Based Modeling by Gradient Boosting"* has been accepted to the **Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)**. See you in Philadelphia, Pennsylvania!
+
+1. [Jan/2025] I am honored to join as an **Associate Editor** for the *Big Data and Machine Learning for Communications* track of IEEE Open Journal of the Communications Society (IEEE OJ-COMS). Looking forward to serving the research community in this role.
+
 1. [Dec/2024] I am honored to join as an **Associate Editor** for the *Machine Learning and Communications* track of IEEE Transactions on Communications (IEEE TCOM). I look forward to serving our research community and advancing the field in this new role.
 
 1. [Dec/2024] I am honored to receive the **IEEE ComSoc Best Young Professional Award** in the "Best Early Career" category.
@@ -208,9 +214,11 @@ Awards
 
 Academic Services
 ======
-1. **Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials (2022-)**
-1. **Associate Editor, IEEE Transactions on Communications (2024-)**
-1. **Associate Editor, IEEE Transactions on Vehicular Technology (2024-)**
+1. **Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials (2022-2024)**
+1. **Associate Editor, IEEE Communications Surveys & Tutorials (Impact Factor: 34.4) (2025-)**
+1. **Associate Editor, IEEE Open Journal of the Communications Society (Impact Factor: 6.3) (2025-)**
+1. **Associate Editor, IEEE Transactions on Communications (Impact Factor: 7.7) (2024-)**
+1. **Associate Editor, IEEE Transactions on Vehicular Technology (Impact Factor: 6.8) (2024-)**
 1. **Guest Editor, IEEE Vehicular Technology Magazine**, *"Integrating Generative AI into Future Internet of Vehicles (IoV)"*, 2024
 1. Workshop Co-chair, "Empowering Wireless Communications and Networking with Generative AI" in IEEE ICCC 2024
 1. Contributor, “IEEE ComSoc Best Readings in Generative AI and Large Language Models for Networking”
