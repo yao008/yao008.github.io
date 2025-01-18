@@ -207,12 +207,12 @@ Awards
 
 Academic Services
 ======
-1. **Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials (2022-2024)**
-1. **Associate Editor, IEEE Communications Surveys & Tutorials (Impact Factor: 34.4) (2025-)**
-1. **Associate Editor, IEEE Open Journal of the Communications Society (Impact Factor: 6.3) (2025-)**
-1. **Associate Editor, IEEE Transactions on Communications (Impact Factor: 7.7) (2024-)**
-1. **Associate Editor, IEEE Transactions on Vehicular Technology (Impact Factor: 6.8) (2024-)**
+1. **Associate Editor, IEEE Communications Surveys & Tutorials** (Impact Factor: 34.4) (2025-)
+1. **Associate Editor, IEEE Open Journal of the Communications Society** (Impact Factor: 6.3) (2025-)
+1. **Associate Editor, IEEE Transactions on Communications** (Impact Factor: 7.7) (2024-)
+1. **Associate Editor, IEEE Transactions on Vehicular Technology (Impact Factor: 6.8)** (2024-)
 1. **Guest Editor, IEEE Vehicular Technology Magazine**, *"Integrating Generative AI into Future Internet of Vehicles (IoV)"*, 2024
+1. Assistant to the Editor-in Chief, IEEE Communications Surveys & Tutorials (2022-2024)
 1. Workshop Co-chair, "Empowering Wireless Communications and Networking with Generative AI" in IEEE ICCC 2024
 1. Contributor, “IEEE ComSoc Best Readings in Generative AI and Large Language Models for Networking”
 1. TPC Member: IEEE Globecom 2024 Workshop - IMMLLM6G; IEEE VTC2024-Fall Washington DC: Machine Learning for Communications; IEEE VTC2024-Fall Washington DC: Electric Vehicles, Vehicular Electronics and Intelligent Transportation; IEEE Globecom 2024-SAC BD; IEEE Globecom 2024-SAC ISC; IEEE ICC 2024-CRAIN Symposium (Cognitive Radio and AI-Enabled Networks); IEEE WCNC 2024-Track 3-Machine Learning and Optimization for Wireless Systems; IEEE WCNC 2024-Track 4-Emerging Technologies, Standards, and Applications; IEEE WCNC 2024-Workshop on The Impact of Large Language Models on 6G Networks; IEEE VTC2023-Fall: Hong Kong, Machine Learning and AI for Communications; IEEE VTC2023-Fall: Hong Kong-Electric Vehicles, Vehicular Electronics and Intelligent Transportation; IEEE VTC2023-Fall: Hong Kong-Recent Results and Workshops; IEEE WCNC 2023-Track 3-Machine Learning and Optimization for Wireless Systems; IEEE WCNC 2022-Track 2-Networking and MAC
