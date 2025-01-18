@@ -62,23 +62,16 @@ News
 
 1. [Jun/2024] Our paper, *"Mixture of Experts for Intelligent Networks: A Large Language Model-enabled Approach"*, was selected for the **Best Paper Award** in International Wireless Communications & Mobile Computing Conference (IWCMC), Ayia Napa, Cyprus, 27–31 May 2024.
 
-1. [May/2024] One [first-author paper](https://arxiv.org/abs/2308.05384) was accepted by IEEE COMST.
-
-1. [Apr/2024] We will organize a workshop ["Empowering Wireless Communications and Networking with Generative AI"](https://iccc2024.ieee-iccc.org/program/workshops-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!
-
-1. [Mar/2024] We will give a tutorial ["Generative Artificial Intelligence-empowered Networks: Optimization and Applications"](https://iccc2024.ieee-iccc.org/program/tutorials-0) in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!
-
-1. [Dec/2023] I am honored to receive the  <font color=green>Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship</font>!
-
-1. [Dec/2023] My two projects got the <font color=green>FIRST PRIZE</font> and <font color=green>SECOND PRIZE</font> in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition, respectively. We will give presentations in IEEE ICC 2024. See you in Denver, CO, USA! 
-
-1. [Nov/2023] Our project, "*Artificial Intelligence-driven Eyewear: Keys to Metaverse,*" received an <font color=green>Honorary Mention</font> in the 2023 ComSoc Student Competition "Communications Technology Changing the World." As the team leader, I am happy to witness our project to be recognized as one of the top 16 projects globally.
-
-1. [Nov/2023] I am honored to receive the <font color=green>IEEE Signal Processing Society Scholarship</font>, as one of the [inaugural class of recipients](https://signalprocessingsociety.org/newsletter/2023/11/congratulations-inaugural-sps-scholarship-recipients?utm_campaign=SPS%20eNewsletter%202023&utm_medium=email&_hsmi=281986648&_hsenc=p2ANqtz-_KhPmHBT92PkzyP34_yIpWezh_Zfif4hqn5260iMT5l5utOV_ITU55AYOeptSJg-61auuMdrW0CuOGqXeTUJ3cS0DZjA&utm_content=281986648&utm_source=hs_email)!
-
 <details>
 <summary><strong>More News</strong></summary>
-<ol start="17">
+<ol start="14">
+    <li>[May/2024] One <a href="https://arxiv.org/abs/2308.05384">first-author paper</a> was accepted by IEEE COMST.</li>
+    <li>[Apr/2024] We will organize a workshop <a href="https://iccc2024.ieee-iccc.org/program/workshops-0">"Empowering Wireless Communications and Networking with Generative AI"</a> in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to submit papers!</li>
+    <li>[Mar/2024] We will give a tutorial <a href="https://iccc2024.ieee-iccc.org/program/tutorials-0">"Generative Artificial Intelligence-empowered Networks: Optimization and Applications"</a> in IEEE/CIC International Conference on Communications in China (ICCC 2024), welcome to participate!</li>
+    <li>[Dec/2023] I am honored to receive the <font color=green>Singapore Data Science Consortium (SDSC) Dissertation Research Fellowship</font>!</li>
+    <li>[Dec/2023] My two projects got the <font color=green>FIRST PRIZE</font> and <font color=green>SECOND PRIZE</font> in the 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition, respectively. We will give presentations in IEEE ICC 2024. See you in Denver, CO, USA!</li>
+    <li>[Nov/2023] Our project, "<i>Artificial Intelligence-driven Eyewear: Keys to Metaverse,</i>" received an <font color=green>Honorary Mention</font> in the 2023 ComSoc Student Competition "Communications Technology Changing the World." As the team leader, I am happy to witness our project to be recognized as one of the top 16 projects globally.</li>
+    <li>[Nov/2023] I am honored to receive the <font color=green>IEEE Signal Processing Society Scholarship</font>, as one of the <a href="https://signalprocessingsociety.org/newsletter/2023/11/congratulations-inaugural-sps-scholarship-recipients?utm_campaign=SPS%20eNewsletter%202023&utm_medium=email&_hsmi=281986648&_hsenc=p2ANqtz-_KhPmHBT92PkzyP34_yIpWezh_Zfif4hqn5260iMT5l5utOV_ITU55AYOeptSJg-61auuMdrW0CuOGqXeTUJ3cS0DZjA&utm_content=281986648&utm_source=hs_email">inaugural class of recipients</a>!</li>
     <li>[Oct/2023] We released the code for our ''generative-AI for decition'' paper <a href="https://arxiv.org/abs/2308.05384">"Generative AI-aided Optimization for AI-Generated Content (AIGC) Services in Edge Networks"</a>. The code is available <a href="https://github.com/Lizonghang/AGOD">here</a>.</li>
     <li>[Sept/2023] We released the code for our ''generative diffusion model tutorial'' paper <a href="https://arxiv.org/abs/2308.05384">"Beyond deep reinforcement learning: A tutorial on generative diffusion models in network optimization"</a>. The code is available <a href="https://github.com/HongyangDu/GDMOPT">here</a>.</li>
     <li>[Jun/2023] We released the code for our IEEE JSAC paper <a href="https://arxiv.org/abs/2303.01896">"AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing"</a>. The code is available <a href="https://github.com/HongyangDu/SemSharing">here</a>.</li>
