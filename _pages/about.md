@@ -220,6 +220,7 @@ Academic Services
 
 Teaching
 ======
+1. ELEC3846 Numerical methods and optimization, Spring 2025
 1. SC1005 Digital Logic, Fall 2023
 1. SC2103 Digital Systems Design, Spring 2023
 1. CE3006 Digital Communications, Fall 2022
