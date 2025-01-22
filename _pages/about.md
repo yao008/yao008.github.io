@@ -103,6 +103,8 @@ Highlighted NICE Lab Work
 
 *Network-aided LLM Inference:*
 
+1. Shiyuan Zhang, Tong Li∗, Zhu Xiao, **Hongyang Du** *(corresponding author)*, Kaibin Huang “LSDM: LLM-Enhanced Spatio-temporal Diffusion Model for Service-Level Mobile Traffic Prediction”, 2025. <font color=green>We propose an LLM-Enhanced Spatio-temporal Diffusion Model (LSDM) to achieve SOTA service-level mobile traffic prediction for individual users.</font>
+
 1. Feiran You, **Hongyang Du** *(corresponding author)*, Kaibin Huang, and Abbas Jamalipour. ["Network-aided Efficient Large Language Model Services With Denoising-inspired Prompt Compression."](https://arxiv.org/abs/2412.03621), 2024. <font color=green>We propose Joint Power and Prompt Optimization (JPPO), a framework that combines Small Language Model (SLM)-based prompt compression with wireless power allocation optimization for efficient LLM services.</font>
 
 ---
