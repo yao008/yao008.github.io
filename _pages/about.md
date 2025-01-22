@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the Department of Electrical and Electronic Engineering, the University of Hong Kong (HKU). Before joining HKU, I received Ph.D. degree at the College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by Prof. Dusit Niyato. Prior to this, I received B.Eng. degree at Beijing Jiaotong University, China, supervised by Prof. Jiayi Zhang. I am now the Principal Investigator (PI) of the **Network Intelligence and Computing Ecosystem (NICE) Lab** @ HKU. The [NICE lab](https://hongyangdu.github.io/nice/) focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems:
+I am an assistant professor at the Department of Electrical and Electronic Engineering, the University of Hong Kong (HKU). Before joining HKU, I received Ph.D. degree at the College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by Prof. Dusit Niyato. Prior to this, I received B.Eng. degree at Beijing Jiaotong University, China, supervised by Prof. Jiayi Zhang. I am now the Principal Investigator (PI) of the <b>Network Intelligence and <font color=green>C<font>omputing <font color=green>E<font>cosystem</b> (NI<font color=green><b>CE</b><font>) Lab** @ HKU. The [NICE lab](https://hongyangdu.github.io/nice/) focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems:
 
 
 <img src='/images/directions.png' width = "900"><br/>
@@ -98,7 +98,7 @@ News
 
 ---
 
-Highlighted NICE Lab Work
+Highlighted NI<font color=green><b>CE</b><font> Lab Work
 ======
 
 *Network Large AI Model:*
