@@ -33,15 +33,6 @@ I am passionate about leveraging AI to address complex societal challenges and i
 - Higher Education  
 - Disciplinary Differences 
 
-
----
-
-News
-======
-
-1. [Jan/2025] I am 
-
-
 ---
 
 ## Publications and Working Papers
