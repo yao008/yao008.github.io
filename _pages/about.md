@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Hongyang Du ( 杜泓阳 )"
+title: "Hi, I am Yao Qu ( 瞿瑶 )"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,6 @@ redirect_from:
 
 I am an assistant professor at the Department of Electrical and Electronic Engineering, the University of Hong Kong (HKU). Before joining HKU, I received Ph.D. degree at the College of Computing and Data Science, Nanyang Technological University, Singapore, supervised by Prof. Dusit Niyato. Prior to this, I received B.Eng. degree at Beijing Jiaotong University, China, supervised by Prof. Jiayi Zhang. I am now the Principal Investigator (PI) of the <b>Network Intelligence and <font color=green>C</font>omputing <font color=green>E</font>cosystem (NI<font color=green>CE</font>) Lab</b> @ HKU. The [NICE lab](https://hongyangdu.github.io/nice/) focuses on the intersection of artificial intelligence and computer networks, aiming to advance next-generation intelligent networks and distributed AI systems:
 
-
-<img src='/images/directions.png' width = "900"><br/>
 
 
 Our research is primarily centered around the utilization of **Generative AI in Intelligent Networks**. The key objective is to explore <font color=green>"how the intelligent networks can support various AI-Generated Content (AIGC) services"</font>, and <font color=green>"how generative AI can improve the intelligent network performance, security, and reliability"</font>. This involves exploring the integration of various networking methodologies:

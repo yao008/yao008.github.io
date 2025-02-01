@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongyang Du's Website"
+title                    : "Yao Qu's Website"
 title_separator          : "-"
-name                     : &name "Hongyang Du"
-description              : &description "Assistant Professor"
-url                      :  https://hongyangdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yao Qu"
+description              : &description "Ph.D. Student"
+url                      :  https://yao008.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hongyangdu/hongyangdu.github.io"
+repository               : "yao008/yao008.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongyang Du"
+  name             : "Yao Qu"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Department of Electrical and Electronic Engineering, the University of Hong Kong. Email: duhy@hku.hk or duhy@eee.hku.hk"
   location         :
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=QI3vo-YAAAAJ&hl=en&oi=ao"
-  email            : duhy@eee.hku.hk
-  researchgate     : "https://www.researchgate.net/profile/Hongyang-Du-2"
+  googlescholar    : "https://scholar.google.com/citations?user=2UwLZRkAAAAJ&hl=en"
+  email            : yao008@e.ntu.edu.sg
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -95,22 +95,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hongyangdu"
+  github           : "yao008"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hongyang-du-72866b246/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-8220-6525"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
   vine             :
-  wechat           : oo1oooo2
+  wechat           : 
   xing             :
   youtube          :
   wikipedia        :
