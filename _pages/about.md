@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Yao Qu ( 瞿瑶 )"
+title: "Hi, I am Doris Yao Qu ( 瞿瑶 )"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
