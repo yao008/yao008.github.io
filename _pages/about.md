@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Public Policy and Global Affairs at Nanyang Technological University (NTU), Singapore. My research focuses on the intersection of artificial intelligence and public policy, particularly in the areas of technology acceptance, AI simulation for policy-making, and the ethical implications of generative AI. 
+I am a Ph.D. Candidate in Public Policy and Global Affairs at Nanyang Technological University (NTU), Singapore, supervised by Prof. [Jue Wang](https://dr.ntu.edu.sg/cris/rp/rp00240). My research focuses on the intersection of artificial intelligence and public policy, particularly in the areas of technology acceptance, AI simulation for policy-making, and the ethical implications of generative AI. 
 I am passionate about leveraging AI to address complex societal challenges and improve decision-making processes in governance and higher education.
 
 
@@ -85,10 +85,10 @@ News
 
 ## Honors and Awards
 - **First Prize**, 2024 ComSoc Social Network Technical Committee (SNTC) Student Competition: *"Enhancing Metaverse Social Networking via User-Centric AI-Driven Eyewear."*  
-- **Outstanding Graduation Thesis Award**, Sichuan University (2021)  
-- **Scholarship**, “Language Motivation Programme” of Sichuan University (2020)  
-- **Sichuan University Scholarship** (2018, 2019)  
-- **Best Teaching Assistant**, AY2023-2024  
+- **Outstanding Graduation Thesis Award**, Sichuan University (2021)
+- **Scholarship**, “Language Motivation Programme” of Sichuan University (2020)
+- **Sichuan University Scholarship** (2018, 2019)
+- **Best Teaching Assistant**, AY2023-2024
 
 ---
 
