@@ -49,8 +49,9 @@ I am passionate about leveraging AI to address complex societal challenges and i
   - A large-scale international survey of 10,000 scholars to investigate the adoption and perception of generative AI across disciplines.  
 - **Understanding AI Acceptance Anxiety Among Undergraduate Students**  
   - Explores the psychological effects of ChatGPT usage, focusing on AI guilt, placebo beliefs, and ghostwriting concerns.  
-- **Simulating Stakeholder Interactions in Policy Making Using Large Language Models**  
-  - Leverages LLMs to simulate stakeholder interactions in policy-making, addressing challenges like inclusivity and equity.  
+- **Simulating Stakeholder Interactions in Policy Making Using Large Language Models**
+  - Leverages LLMs to simulate stakeholder interactions in policy-making, addressing challenges like inclusivity and equity.
+    
 ---
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9aHnVzlM_EAp0qTVf_CHfFKjCaBEvbeX4VHjlkGRZYw&cl=ffffff&w=a"></script>
