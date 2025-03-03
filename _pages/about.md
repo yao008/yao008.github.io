@@ -40,7 +40,8 @@ I am passionate about leveraging AI to address complex societal challenges and i
 2. **Qu, Y., Tan, M.X.Y., & Wang, J.** (2024). Disciplinary differences in undergraduate students' engagement with generative artificial intelligence. *Smart Learn. Environ.* 11, 51.  
 3. **Qu, Y., & Wang, J.** (Under Review). The impact of AI guilt on students’ use of ChatGPT for academic tasks: Examining disciplinary differences. *Journal of Academic Ethics*.  
 4. **Tan, M.X.Y., Qu, Y., & Wang, J.** (Under Review). Student perceptions of generative artificial intelligence regulations: A mixed-methods study of higher education in Singapore. *Higher Education Quarterly*.  
-5. **Qu, Y., Wang, J.** (Major Revision). Evaluating the moderating role of local government competition on government attention and innovation outcomes in China. *Public Performance & Management Review*.  
+5. **Qu, Y., Wang, J.** (Major Revision). Evaluating the moderating role of local government competition on government attention and innovation outcomes in China. *Public Performance & Management Review*.
+6. **Qu, Y., Wang, J.** (Under Review). Perceived Institutional Precarity and International Academic Mobility: A Singapore Study. *_Science and Public Policy_*. 
 
 ---
 
