@@ -50,7 +50,6 @@ I am a Ph.D. Candidate in Public Policy and Global Affairs at Nanyang Technologi
   - Leverages LLMs to simulate stakeholder interactions in policy-making, addressing challenges like inclusivity and equity.
 - **Authorship and Accountability in the Age of GenAI: Evidence from PhD Students**  
   - A survey experiment studying how PhD students assign credit and responsibility when using GenAI, and how competitive academic environments influence disclosure decisions.  
-  - Lead and design the project
 
 ---
 
