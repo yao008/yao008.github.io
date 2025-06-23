@@ -36,9 +36,6 @@ I am a Ph.D. Candidate in Public Policy and Global Affairs at Nanyang Technologi
 
 5. **Qu, Y.**, Loo, H.E., & Wang, J. Generative Artificial Intelligence in Higher Education: Emotional Tensions and Ethical Declaration. *Manuscript under review*
 
-6. **Qu, Y.**, & Wang, J. To Disclose or Not to Disclose: Peer Influence and Psychological Factors in Students’ GenAI Use. *Working paper*
-
-7. **Qu, Y.**, & Wang, J. Agency Perception Through Interactions: How Students’ Verification and Revision behaviours Influence GenAI Tool Perception. *Working paper*
 
 
 ---
