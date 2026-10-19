@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yao Qu's Website"
 title_separator          : "-"
 name                     : &name "Yao Qu"
-description              : &description "Ph.D. Student"
+description              : &description "Lecturer"
 url                      :  https://yao008.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yao008/yao008.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yao Qu"
   avatar           : "profile.png"
-  bio              : " Ph.D. Candidate in Public Policy and Global Affairs at Nanyang Technological University. Email: yao008@e.ntu.edu.sg"
+  bio              : "Lecturer at the Nanyang Centre for Public Administration, Nanyang Technological University. Email: yao.qu@ntu.edu.sg"
   location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=2UwLZRkAAAAJ&hl=en"
-  email            : yao008@e.ntu.edu.sg
+  email            : yao.qu@ntu.edu.sg
   researchgate     : 
   uri              :
   bitbucket        :
